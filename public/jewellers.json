@@ -1,0 +1,3406 @@
+[
+  {
+    "id": 1,
+    "category": "earrings",
+    "title": "Earrings - Celeste Two-Tone Sculpted Hoop Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e33.jpg",
+    "description": "A harmony of form and finesse, the Celeste Two-Tone Sculpted Hoop Earrings by Maverick Jewels blend contemporary design with timeless luxury. The sleek, elongated silhouette is crafted in radiant yellow gold, with a refined curve that frames a vertical bar of dazzling white stones. The inner hoop, in contrasting white metal, adds dimensional elegance and a modern twist to the classic hoop style.",
+    "inStock": true,
+    "features": {
+      "design": "Elongated teardrop-inspired open hoop with dual-tone finish",
+      "material": "Yellow gold plating with white rhodium inner hoop (Customized available)",
+      "stones": "Central bar adorned with brilliant-cut cubic zirconia",
+      "closure": "Secure latch-back clasp for comfortable wear",
+      "finish": "High-polish for a clean, contemporary sheen",
+      "hypoallergenic": "Nickel-free and safe for sensitive skin",
+      "bestFor": "Formal occasions, professional attire, or refined everyday wear"
+    }
+  },
+  {
+    "id": 2,
+    "category": "rings",
+    "title": "Rings - Imperial Crown Solitaire Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "25,166.39",
+    "originalPrice": "29,607.52",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r43.jpg",
+    "description": "Make an uncompromising statement of success with the Imperial Crown Solitaire Ring by Maverick Jewels. Crafted in radiant yellow gold, this ring centers on a commanding round-cut solitaire diamond, elevated by a regal four-prong setting. Flanking the centerpiece are pav\u00e9-set side panels, adding layered brilliance to this powerful, masculine design. A symbol of ambition, authority, and excellence.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable, high-durability with smooth-polish finish for lasting elegance",
+      "edges": "Beveled edges for sleek detailing and comfort",
+      "diamondComposition": {
+        "centerpiece": "1 large round brilliant-cut solitaire diamond",
+        "sideAccents": "Two pav\u00e9 panels each with multiple smaller round-cut diamonds",
+        "diamondWeight": "Approx. total diamond weight: 1.20 \u2013 1.50 carats (customizable)",
+        "setting": "Prong and pav\u00e9 setting combination for maximum brilliance"
+      },
+      "designElements": {
+        "band": "Thick, masculine band with architectural edges",
+        "elevation": "Elevated center for prominence and light exposure",
+        "aesthetic": "Modern luxury blended with timeless regal appeal"
+      },
+      "finish": "Polished to a mirror finish with clean contours",
+      "designHighlights": [
+        "Regal solitaire centerpiece with layered pav\u00e9 brilliance",
+        "Clean, authoritative structure exudes confidence",
+        "Ideal for elite fashion, milestones, or modern engagements"
+      ],
+      "styleCategory": "Men's statement ring / Engagement or milestone gift / Elite fashion ring"
+    }
+  },
+  {
+    "id": 3,
+    "category": "earrings",
+    "title": "Earrings - Crystal Bloom Arch Jacket Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e13.jpg",
+    "description": "Gracefully poised and artfully refined, the Crystal Bloom Arch Jacket Earrings bring a modern sparkle to timeless charm. This two-piece design features a minimalist floral stud with three dazzling stones, complemented by a curved ear jacket encrusted with petite round crystals and delicate dangling drops for extra shimmer. A versatile pair that blends subtle elegance with playful movement.",
+    "inStock": true,
+    "features": {
+      "designType": "Stud + ear jacket combination",
+      "upperStud": "Floral trinity design with three brilliant-cut stones, flat profile, sits neatly on the earlobe",
+      "earJacket": "Crescent/arch-shaped design follows the curve under the lobe, inlaid with micro-pav\u00e9 crystals, with tiny hanging round crystal drops for dynamic sparkle",
+      "material": "Rose gold-plated hypoallergenic alloy, nickel- and lead-free",
+      "size": {
+        "studDiameter": "Approx. 6mm",
+        "archSpan": "Approx. 20mm",
+        "dropLength": "Approx. 3\u20134mm"
+      },
+      "closureType": "Secure butterfly back fastening",
+      "occasion": "Ideal for date nights, formal gatherings, or chic everyday wear",
+      "packaging": "Delivered in Maverick Jewels' luxury keepsake box",
+      "styleTip": "Wear just the studs for a minimalist look, or combine both for full glamour"
+    }
+  },
+  {
+    "id": 4,
+    "category": "necklaces",
+    "title": "Necklace - Royal Ruby Drop Diamond Necklace",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n18.jpg",
+    "description": "Step into timeless elegance with this breathtaking masterpiece from Maverick Jewels. Meticulously crafted for the modern connoisseur, this V-shaped designer necklace showcases a dazzling array of precision-cut diamonds\u2014round, baguette, and princess cuts\u2014interwoven into an intricate lattice that radiates brilliance from every angle. At its heart lies a majestic pear-shaped ruby, framed by a double halo of glistening diamonds, exuding regal charm and sophistication. Whether it's a grand wedding or an elite celebration, this necklace embodies grace, grandeur, and glamour.",
+    "inStock": true,
+    "features": {
+      "stone": "Certified Diamonds & Natural Ruby",
+      "design": "Modern Heritage V-shape",
+      "setting": "Precision hand-set latticework",
+      "occasion": "Weddings | Festive | Luxe Celebrations",
+      "customization": "Gold tone available in White / Yellow / Rose"
+    }
+  },
+  {
+    "id": 6,
+    "category": "bracelets",
+    "title": "Bracelets - Ruby & Diamond Marquise Bangle",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b15.jpg",
+    "description": "Unveil bold elegance with the Ruby & Diamond Marquise Bangle by Maverick Jewels. This striking design features alternating marquise-shaped ruby gemstones and shimmering diamond halos, all delicately set in a radiant yellow gold frame. The artistic open-leaf structure gives the bangle a flowing, nature-inspired feel, while the vivid red rubies add a dramatic, passionate allure. Designed for the modern woman who values tradition with a twist of glamour.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "gemstones": [
+        "Deep red marquise-cut rubies",
+        "Sparkling round brilliant diamonds encircling alternate links"
+      ],
+      "design": "Nature-inspired marquise/leaf pattern",
+      "finish": "Glossy gold polish with secure gem prong settings",
+      "structure": "Sturdy with a flexible clasp for comfortable wear",
+      "style": "Bold, elegant, and luxurious",
+      "occasion": "Perfect for weddings, festive wear, or premium gifting"
+    }
+  },
+  {
+    "id": 7,
+    "category": "earrings",
+    "title": "Earrings - Elara Teardrop Sparkle Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e36.jpg",
+    "description": "Elegance takes a graceful curve in the Elara Teardrop Sparkle Earrings by Maverick Jewels. These refined earrings showcase a delicate teardrop silhouette, meticulously outlined with a single row of brilliant round-cut cubic zirconia. Set in a polished rose gold-plated base, the open teardrop shape creates a timeless yet modern look\u2014lightweight and endlessly radiant.",
+    "inStock": true,
+    "features": {
+      "design": "Sleek open teardrop silhouette with full-stone detailing",
+      "material": "High-grade rose gold-plated alloy (Customized available)",
+      "stones": "Hand-set round brilliant-cut cubic zirconia",
+      "finish": "Glossy, mirror-polished metal with precision stonework",
+      "closure": "Post and hinge clasp for secure and easy wear",
+      "hypoallergenic": "Nickel-free and gentle on sensitive skin",
+      "idealFor": "Weddings, romantic evenings, and elevated daily wear"
+    }
+  },
+  {
+    "id": 8,
+    "category": "earrings",
+    "title": "Earrings - Floral Cluster Front-Back Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e22.jpg",
+    "description": "Exude refined glamour with these radiant Floral Cluster Front-Back Earrings from Maverick Jewels. Perfectly blending timeless elegance with modern design, these earrings are crafted to elevate both casual sophistication and formal attire.",
+    "inStock": true,
+    "features": {
+      "design": "Two-piece front-back earring set",
+      "frontStud": "Circular floral cluster of round-cut stones",
+      "backPiece": "Three marquise-shaped leaf motifs in a V-shaped spread",
+      "stones": "High-quality cubic zirconia or diamonds on request",
+      "metal": "925 Sterling silver with rhodium or 18K white gold plating (Customized available)",
+      "style": "Convertible \u2013 wear it with or without the back piece",
+      "finish": "Glossy, mirror-polished shine for extra sparkle",
+      "occasion": "Ideal for parties, formal events, and festive occasions",
+      "fit": "Push-back or screw-back support for comfort and security"
+    }
+  },
+  {
+    "id": 9,
+    "category": "earrings",
+    "title": "Earrings - Diamond Floral Cluster Stud Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e4.jpg",
+    "description": "Unveil a new level of elegance with the Diamond Floral Cluster Stud Earrings by Maverick Jewels. Designed to reflect nature's beauty, these stunning earrings feature a floral-inspired motif, where each petal is formed from dazzling marquise- and pear-cut diamonds. Set in luxurious white gold, this design captures light from every angle, offering unmatched brilliance and feminine grace. Perfect for weddings, festive occasions, or upscale evening wear, these studs are a radiant expression of timeless charm.",
+    "inStock": true,
+    "features": {
+      "design": "Floral cluster composed of marquise and pear-shaped diamonds",
+      "metal": "Available in 14K/18K white gold (customizable to yellow or rose gold)",
+      "diamondCut": "Marquise & pear cuts for multi-directional sparkle",
+      "setting": "Precision prong setting for secure diamond placement",
+      "earringSize": "Medium to bold statement size \u2013 ideal for events",
+      "closure": "Post with secure push-back or screw-back (optional)",
+      "packaging": "Delivered in a premium Maverick Jewels gift box",
+      "occasion": "Ideal for weddings, anniversaries, parties, or gifting",
+      "qualityAssurance": "Diamonds available with IGI/GIA certification upon request"
+    }
+  },
+  {
+    "id": 10,
+    "category": "rings",
+    "title": "Rings - Regal Grid Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "36,907.29",
+    "originalPrice": "49,209.72",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r32.jpg",
+    "description": "Make an unforgettable impression with the Regal Grid Diamond Ring from Maverick Jewels. Designed for the modern gentleman who values elegance with an edge, this ring combines bold structure with refined luxury. Crafted in rich yellow gold, it features a distinctive grid-patterned shank and a stunning 3x3 cluster of brilliant-cut diamonds that exude power and prestige.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "designElements": {
+        "band": "Wide, textured band with a geometric grid finish for a bold and structured aesthetic",
+        "fit": "Flat-top surface ensures a comfortable, secure fit"
+      },
+      "diamondSetting": {
+        "layout": "9 round-cut diamonds in a symmetric 3x3 cluster",
+        "diamondWeight": "Approx. total diamond weight: ~0.75 carat (customizable)",
+        "setting": "Secure prong or invisible setting for a seamless sparkle"
+      },
+      "finish": "High-polish gold with fine detailing on the edges",
+      "styleCategory": "Statement ring / Cocktail ring / Men's fashion ring",
+      "idealFor": "Engagements, anniversaries, milestone celebrations, or luxury everyday wear"
+    }
+  },
+  {
+    "id": 11,
+    "category": "rings",
+    "title": "Rings - Trident Spark Solitaire Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "48,503.29",
+    "originalPrice": "60,629.11",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r16.jpg",
+    "description": "Redefine power and precision with the Trident Spark Solitaire Ring by Maverick Jewels. Featuring a bold fusion of symmetry and shine, this ring showcases a central solitaire diamond flanked by three parallel pav\u00e9 diamond stripes. The blend of polished yellow gold and white rhodium accents creates a strong, sophisticated silhouette \u2013 perfect for the modern man who leads with confidence.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable, BIS-hallmarked for purity and authenticity",
+      "diamondArrangement": {
+        "centerpiece": "1 round brilliant-cut solitaire diamond in a secure 4-prong setting",
+        "accentLines": "3 pav\u00e9-set rows of smaller diamonds aligned diagonally",
+        "diamondWeight": "Approx. total diamond weight: 0.50 \u2013 0.70 carats (customizable)"
+      },
+      "designDetails": {
+        "bandStyle": "Distinctive trident-style band layout for an elevated profile",
+        "panelBalance": "Polished left panel balances the detailed right side",
+        "bandShape": "Slight tapering on the band for comfort and aesthetic harmony"
+      },
+      "finish": "High-gloss gold with rhodium-enhanced pav\u00e9 setting",
+      "edges": "Smooth inner band for everyday comfort",
+      "designHighlights": [
+        "Bold solitaire centerpiece with symmetrical pav\u00e9 accents",
+        "Contrasting textures for dynamic visual appeal",
+        "Ideal for modern engagements or statement fashion"
+      ],
+      "styleCategory": "Luxury men's fashion ring / Modern engagement ring / Statement accessory"
+    }
+  },
+  {
+    "id": 12,
+    "category": "necklaces",
+    "title": "Pendant - Geometric Brilliance Diamond Pendant",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n23.jpg",
+    "description": "Step into the spotlight with the Geometric Brilliance Pendant, a bold reinterpretation of modern elegance. Featuring a unique shield-cut diamond in a secure bezel setting, this statement piece is meticulously crafted in yellow gold, blending geometric precision with radiant sparkle. Suspended from a refined gold link chain, this pendant is ideal for those who embrace distinctive, high-fashion aesthetics with a luxurious edge.",
+    "inStock": true,
+    "features": {
+      "centerStone": "Shield-cut diamond",
+      "setting": "Bold bezel setting",
+      "metal": "Customizable",
+      "chain": "Matching box-link chain in yellow gold",
+      "designStyle": "Contemporary, edgy luxury",
+      "perfectFor": "High-end minimalists and power dressers"
+    }
+  },
+  {
+    "id": 13,
+    "category": "earrings",
+    "title": "Earrings - Petal-Inspired Rose Gold Diamond Stud Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e15.jpg",
+    "description": "These exquisite stud earrings are crafted in a graceful petal or flame-shaped silhouette, featuring a dual-layered openwork design. The interior is embellished with marquise-cut and round-cut stones, elegantly arranged to form a lace-like texture. Framed in rose gold plating and encrusted with shimmering pav\u00e9 diamonds or high-quality zirconia, this piece exudes delicacy and brilliance.",
+    "inStock": true,
+    "features": {
+      "design": "Petal/flame-inspired dual-layer stud with open latticework",
+      "stones": "Combination of marquise and round-cut stones",
+      "material": "Rose gold-plated alloy base (Customized available)",
+      "finish": "Mirror polish with detailed stone-setting",
+      "fit": "Stud-style, secure with butterfly clasp",
+      "skinFriendly": "Hypoallergenic and nickel-free",
+      "size": "Compact yet eye-catching",
+      "idealFor": "Festive occasions, parties, weddings, and luxury gifting"
+    }
+  },
+  {
+    "id": 14,
+    "category": "earrings",
+    "title": "Earrings - Crystal Vine Climber Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e9.jpg",
+    "description": "Embrace nature-inspired sophistication with the Crystal Vine Climber Earrings from Maverick Jewels. These stunning ear climbers are designed to trace the natural curve of your ear with a graceful branch of shimmering marquise-cut crystals. The minimalist leaf motif brings a refreshing elegance that transitions effortlessly from daytime chic to evening glamour.",
+    "inStock": true,
+    "features": {
+      "design": "Elegant vine/leaf climber earring that follows the ear contour",
+      "stones": "Marquise-cut high-polish cubic zirconia for a radiant sparkle",
+      "setting": "Prong setting for secure hold and a fine-crafted finish",
+      "metal": "Rhodium-plated hypoallergenic alloy for shine and skin safety",
+      "style": "Climber style that hugs the ear (non-piercing illusion effect)",
+      "length": "Approx. 2.5\u20133 cm, designed to fit most earlobe sizes comfortably",
+      "closure": "Post and push-back with optional ear-hook support",
+      "occasion": "Ideal for formal events, weddings, or everyday sparkle",
+      "packaging": "Delivered in a luxury Maverick Jewels gift box",
+      "care": "Store separately, clean with a soft cloth, avoid moisture"
+    }
+  },
+  {
+    "id": 15,
+    "category": "earrings",
+    "title": "Earrings - Rose Luxe Pave Hoop Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e29.jpg",
+    "description": "Redefine elegance with the Rose Luxe Pave Hoop Earrings by Maverick Jewels. Crafted in radiant rose gold tone, these hoops feature a luxurious double-row design\u2014one row lined with larger round-cut stones and the other encrusted with micro pave crystals. The combination delivers exceptional brilliance and a bold, modern silhouette.",
+    "inStock": true,
+    "features": {
+      "design": "Classic hoop with double-row pave and central round-cut stones",
+      "finish": "Rose gold plating for a warm, romantic glow",
+      "stones": "High-quality round-cut cubic zirconia with pave detailing",
+      "closure": "Hinged snap-lock for a secure and seamless fit",
+      "dimensions": "Medium-sized hoops, perfect for day-to-night wear",
+      "hypoallergenic": "Nickel-free and gentle on sensitive skin",
+      "styleTip": "Ideal for pairing with cocktail dresses, sarees, or formal gowns"
+    }
+  },
+  {
+    "id": 16,
+    "category": "earrings",
+    "title": "Earrings - Floral Front-Back Dual Stud Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e19.jpg",
+    "description": "Unveil your elegance with these graceful Floral Front-Back Dual Stud Earrings by Maverick Jewels. A perfect fusion of minimalism and charm, this pair is designed to add dimension, creativity, and sophistication to your everyday look.",
+    "inStock": true,
+    "features": {
+      "design": "Front-back dual floral stud earrings",
+      "style": "Contemporary, floral elegance with a layered look",
+      "stoneCuts": "Marquise and round brilliant cuts",
+      "stones": "High-quality cubic zirconia or diamonds (optional upgrade)",
+      "metalBase": "18K gold-plated or rose gold-plated over sterling silver (Customized available)",
+      "finish": "Glossy and finely polished",
+      "fit": "Lightweight and secure with a comfortable push-back mechanism",
+      "look": "Versatile for daily wear, festive gatherings, or a modern bridal look",
+      "specialHighlight": "Detachable bottom floral jacket for versatile styling"
+    }
+  },
+  {
+    "id": 17,
+    "category": "rings",
+    "title": "Rings - Royal Halo Groove Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "42,675.10",
+    "originalPrice": "53,343.88",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r35.jpg",
+    "description": "Where elegance meets artistry \u2014 the Royal Halo Groove Ring by Maverick Jewels is a masterpiece of precision and brilliance. Crafted in radiant yellow gold, this ring features a tri-diamond centerpiece framed by two graceful rows of shimmering pav\u00e9 diamonds. The sculpted split-band design adds dimensional depth, making it a timeless choice for refined taste.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable solid gold with smooth inner lining for daily comfort",
+      "diamondSetting": {
+        "centerRow": "3 round brilliant-cut diamonds set in bezel-inspired golden grooves",
+        "topBottomRows": "Pav\u00e9-set diamonds add shimmer and detail",
+        "totalDiamonds": "Approx. total diamond count: ~25+",
+        "diamondWeight": "Approx. total diamond weight: ~0.70-0.90 carats (customizable)"
+      },
+      "designDetails": {
+        "band": "Dual open grooves create a modern split-band effect",
+        "centerpiece": "Central diamonds raised for prominence",
+        "symmetry": "Symmetry between pav\u00e9 lines enhances sparkle and balance"
+      },
+      "finish": "High-gloss polish with precision-finished edges",
+      "edges": "Soft rounded band for an elegant, comfortable fit",
+      "styleCategory": "Celebration ring / Premium men's fashion ring / Anniversary ring"
+    }
+  },
+  {
+    "id": 18,
+    "category": "bracelets",
+    "title": "Bracelets - Blossom Harmony Diamond Bangle",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b3.jpg",
+    "description": "Embrace timeless floral elegance with the Blossom Harmony Diamond Bangle from Maverick Jewels. This intricately designed piece showcases a continuous arrangement of alternating polished gold and pav\u00e9 diamond-studded flower motifs. Crafted in luxurious customizable gold, the bangle features double outer rims lined with shimmering brilliant-cut diamonds, creating a radiant frame that enhances the floral pattern at the center.",
+    "inStock": true,
+    "features": {
+      "designName": "Blossom Harmony Diamond Bangle",
+      "metal": "Customizable",
+      "diamondType": "Round brilliant-cut diamonds",
+      "motifs": "Alternating solid gold and diamond-encrusted floral patterns",
+      "structure": "Solid bangle with dual diamond-lined outer rims",
+      "finish": "High-polish gold with precise micro-pav\u00e9 diamond setting",
+      "style": "Elegant and timeless\u2014perfect for festive, bridal, and occasion wear",
+      "fit": "Closed bangle design for a secure and traditional fit"
+    }
+  },
+  {
+    "id": 19,
+    "category": "rings",
+    "title": "Rings - Solitaire Crest Men's Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "8,206.89",
+    "originalPrice": "11,724.13",
+    "discount": "30% OFF",
+    "imageFront": "images/rings/r36.jpg",
+    "description": "Minimalist yet undeniably powerful, the Solitaire Crest Men's Ring by Maverick Jewels redefines everyday sophistication. Crafted in rich yellow gold, this design features a single brilliant-cut diamond set in a square bezel, balanced by a sleek, grooved shoulder. It's a timeless statement of strength, simplicity, and refined taste.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable, BIS-hallmarked for purity and quality assurance",
+      "edges": "Minimalist contouring for a subtle, masculine look",
+      "diamondSetting": {
+        "diamond": "1 round brilliant-cut solitaire diamond",
+        "setting": "Secure 4-prong setting within a square bezel frame",
+        "diamondWeight": "Approx. diamond weight: 0.10 \u2013 0.15 carat (customizable)"
+      },
+      "designElements": {
+        "band": "Tapered band for a smooth, comfortable fit",
+        "shoulder": "Sleek horizontal grooves add depth and a contemporary edge",
+        "surface": "Polished surfaces provide a clean, high-luster finish"
+      },
+      "finish": "Mirror-polished gold with precision-crafted grooves",
+      "styleCategory": "Daily wear / Promise ring / Men's classic solitaire ring"
+    }
+  },
+  {
+    "id": 20,
+    "category": "bracelets",
+    "title": "Bracelets - Classic Marquise-Cut Diamond Tennis Bracelet",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b36.jpg",
+    "description": "Unveil sheer elegance with the Classic Marquise-Cut Diamond Tennis Bracelet by Maverick Jewels. This stunning piece features alternating marquise and round-cut cubic zirconia stones set in a seamless, flowing pattern that hugs the wrist with brilliance and sophistication. Designed to make a lasting impression, this bracelet offers the perfect balance of timeless charm and modern finesse.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "design": "Classic tennis bracelet with alternating marquise and round-cut stone settings",
+      "stones": "Premium cubic zirconia (brilliant round & marquise cuts)",
+      "finish": "High-polish shine with fine prong setting for maximum sparkle",
+      "clasp": "Box clasp with safety for secure and comfortable fit",
+      "style": "Perfect for formal occasions, evening wear, or bridal looks",
+      "comfort": [
+        "Lightweight",
+        "Hypoallergenic",
+        "Nickel-free"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "category": "necklaces",
+    "title": "Necklace - Geometric Glow Diamond Bar Necklace",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n4.jpg",
+    "description": "Clean lines meet radiant sparkle in the Geometric Glow Necklace, a modern masterpiece featuring a series of princess-cut diamonds set in a linear bar design. Crafted in rose gold, this contemporary piece showcases a symmetrical pattern of sparkle that reflects elegance with a subtle architectural edge.",
+    "inStock": true,
+    "features": {
+      "metal": "Customizable",
+      "diamonds": "Princess-cut, expertly set in a row",
+      "design": "Bar necklace with step-inspired geometry",
+      "vibe": "Chic, minimal, and powerfully refined",
+      "perfectFor": "Day-to-night transitions and layering looks"
+    }
+  },
+  {
+    "id": 22,
+    "category": "necklaces",
+    "title": "Pendant - Celestial Trio Pendant in Rose Gold",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n1.jpg",
+    "description": "A radiant harmony of precision and elegance, the Celestial Trio Pendant is a celebration of balance and brilliance. Suspended from a delicate rose gold chain, this pendant showcases a striking arrangement of three exquisite diamonds: a vertical emerald-cut diamond sits confidently above two marquise and pear-shaped diamonds, arranged in a graceful wing-like silhouette. Each diamond is carefully prong-set to capture maximum light, creating a dynamic sparkle with every movement.",
+    "inStock": true,
+    "features": {
+      "diamondCuts": "1 Emerald-Cut (top), 1 Marquise-Cut (right), 1 Pear-Cut (left)",
+      "metal": "Customizable",
+      "designStyle": "Asymmetric yet balanced elegance",
+      "setting": "Open prong to enhance brilliance",
+      "lookAndFeel": "Airy, modern, and luminous"
+    }
+  },
+  {
+    "id": 23,
+    "category": "necklaces",
+    "title": "Necklace Set - Emerald Feather Diamond Set",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n5.jpg",
+    "description": "Unveil sleek sophistication with the Emerald Feather Diamond Set by Maverick Jewels. Inspired by the graceful silhouette of a feather, this striking set features a necklace and matching earrings adorned with shimmering marquise-cut diamonds that radiate outward in a symmetrical, layered formation. A vertical column of emerald-cut green stones forms the centerpiece, drawing the eye with vibrant contrast and timeless elegance. The matching earrings echo the same design, creating a cohesive, luxurious look that is perfect for grand celebrations or modern bridal ensembles.",
+    "inStock": true,
+    "features": {
+      "setIncludes": "Necklace + Matching Earrings",
+      "designTheme": "Feather-inspired elegance",
+      "stoneTypes": "Emerald-cut green gemstones & marquise-cut diamonds",
+      "metalFinish": "White rhodium polish with a gold base",
+      "craftsmanship": "High-precision prong setting for optimal sparkle",
+      "occasion": "Ideal for weddings, receptions, and gala nights",
+      "styleVibe": "Contemporary grace with regal flair"
+    }
+  },
+  {
+    "id": 24,
+    "category": "rings",
+    "title": "Rings - Dual Tone Majesty Solitaire Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "32,686.27",
+    "originalPrice": "43,581.69",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r39.jpg",
+    "description": "Blending bold contrast with elegant simplicity, the Dual Tone Majesty Solitaire Ring from Maverick Jewels brings contemporary edge to classic charm. Crafted in a striking combination of yellow and white gold, this lightweight yet impactful ring showcases a radiant square-set solitaire diamond, flanked by textured detailing for a refined, masculine finish.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable dual-tone design for a modern and distinguished aesthetic",
+      "edges": "Smooth, rounded inner band for comfortable wear",
+      "diamondSetting": {
+        "diamond": "1 square illusion-set diamond for enhanced brilliance",
+        "setting": "Four-prong secure setting",
+        "diamondWeight": "Approx. diamond weight: ~0.10 \u2013 0.20 carat (customizable)"
+      },
+      "designElements": {
+        "texture": "Grooved side texture adds depth and dimension",
+        "band": "Slim, tapered band offers lightweight comfort and style",
+        "platform": "Square-shaped diamond platform emphasizes symmetry"
+      },
+      "finish": "Glossy high-polish finish on yellow gold with satin-finished white gold accents",
+      "styleCategory": "Everyday elegance / Engagement band / Modern men's ring"
+    }
+  },
+  {
+    "id": 25,
+    "category": "earrings",
+    "title": "Earrings - Radiant Snowflake Diamond Stud Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e16.jpg",
+    "description": "Add a sparkle of timeless charm with these dazzling snowflake-inspired stud earrings by Maverick Jewels. Designed to reflect the beauty of nature and the brilliance of fine craftsmanship, this piece is a perfect balance of elegance and everyday luxury. These stud earrings feature a snowflake or floral burst design, meticulously crafted to form a radiant, symmetrical shape. Adorned with brilliant-cut and marquise-shaped stones, each petal or spoke sparkles with icy brilliance, evoking a delicate and luxurious feel. Set in a lustrous white metal finish, this piece complements all skin tones and outfits\u2014ideal for everything from formal events to everyday sophistication.",
+    "inStock": true,
+    "features": {
+      "design": "Snowflake-inspired cluster design with a symmetrical floral layout",
+      "material": "Rhodium or white gold-plated alloy (Customized available)",
+      "stones": "High-quality cubic zirconia or diamonds in round and marquise cuts",
+      "finish": "Brilliant mirror polish with precise stone setting",
+      "fit": "Secure stud with butterfly back",
+      "hypoallergenic": "Nickel- and lead-free for sensitive skin",
+      "occasion": "Ideal for weddings, parties, formal dinners, or everyday luxury",
+      "size": "Petite yet bold enough to be noticed"
+    }
+  },
+  {
+    "id": 26,
+    "category": "earrings",
+    "title": "Earrings - Pearl Leaf Whisper Stud Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e8.jpg",
+    "description": "Step into a realm of grace with the Pearl Leaf Whisper Stud Earrings from Maverick Jewels. Featuring a single lustrous faux pearl stud paired with a delicate crystal-studded vine motif, these earrings exude an air of refined simplicity. The leaf-like accents gently hug the earlobe, creating a subtle yet artistic curve that flatters any ear shape.",
+    "inStock": true,
+    "features": {
+      "design": "Dual-part earring with a top pearl stud and bottom leaf-vine crystal curve",
+      "mainAccent": "Imitation pearl with high gloss finish",
+      "details": "Small marquise-cut cubic zirconia stones forming a leaf pattern",
+      "metal": "Rhodium-plated or silver-tone hypoallergenic alloy",
+      "style": "Lobe-hugging, curved earring jacket style",
+      "dimensions": "Approx. 2.2 cm total height",
+      "closure": "Push-back post with adjustable earring jacket",
+      "occasions": "Suitable for casual wear, weddings, and soft feminine fashion",
+      "packaging": "Signature Maverick Jewels velvet box",
+      "care": "Avoid contact with water; clean with a dry cloth to maintain shine"
+    }
+  },
+  {
+    "id": 27,
+    "category": "earrings",
+    "title": "Earrings - Pearl & Crystal Fan Stud Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e7.jpg",
+    "description": "Refined elegance meets minimalist luxury with the Pearl & Crystal Fan Stud Earrings from Maverick Jewels. These delicate earrings feature a luminous round faux pearl as the main stud, while a gracefully fanned arrangement of marquise-cut crystals forms a radiant crown underneath the lobe. This dual-layer design gives the illusion of a jacket-style earring, creating a sophisticated yet modern aesthetic.",
+    "inStock": true,
+    "features": {
+      "design": "Dual-layer stud with a classic pearl and fan-shaped crystal cluster",
+      "mainStone": "High-luster faux pearl (round)",
+      "accentStones": "Marquise-cut cubic zirconia crystals in a fanned layout",
+      "metal": "Gold-tone hypoallergenic alloy (also available in silver tone)",
+      "finish": "Polished sheen for a refined, elegant look",
+      "size": "Approx. 1.8 cm height x 1.5 cm width",
+      "closure": "Standard post and butterfly back for easy, secure wear",
+      "wearability": "Lightweight; suitable for weddings, office, or casual chic outfits",
+      "packaging": "Soft velvet pouch or Maverick Jewels signature gift box",
+      "careTips": "Wipe clean with a soft cloth after use; store in a dry, closed box"
+    }
+  },
+  {
+    "id": 28,
+    "category": "necklaces",
+    "title": "Pendant - Eternal Halo Diamond Pendant",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n10.jpg",
+    "description": "Minimalist yet mesmerizing, the Eternal Halo Pendant radiates pure sophistication. The centerpiece, a brilliant round-cut diamond, is flawlessly encircled by a delicate halo of pave-set diamonds, amplifying its sparkle and charm. Suspended from a fine white gold chain, the design exudes timeless grace\u2014perfect for everyday luxury or elegant occasions.",
+    "inStock": true,
+    "features": {
+      "centerStone": "Round brilliant diamond",
+      "halo": "Micro pave diamond surround",
+      "metal": "Customizable",
+      "chainStyle": "Fine cable chain",
+      "designConcept": "Classic elegance with a modern edge",
+      "occasion": "Ideal for anniversaries, birthdays, or self-love gifts"
+    }
+  },
+  {
+    "id": 29,
+    "category": "earrings",
+    "title": "Earrings - Elegant Rose Gold Diamond-Accented Stud Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e14.jpg",
+    "description": "Refined and graceful, these earrings from Maverick Jewels embody timeless beauty with a modern twist. Designed for the sophisticated woman, they offer a delicate sparkle and an artful form that stands out without being loud. Featuring a double teardrop or wing-inspired design with sleek curves crafted in radiant rose gold and micro-set dazzling stones.",
+    "inStock": true,
+    "features": {
+      "design": "Double loop teardrop shape with a modern twist",
+      "material": "Rose gold finish with pav\u00e9-set diamonds or premium zircon (Customized available)",
+      "fit": "Comfortable stud setting \u2013 secure and lightweight",
+      "dimensions": "Compact and elegant \u2013 perfect for daily elegance",
+      "finish": "High-polish with brilliant stone detailing",
+      "allergySafe": "Hypoallergenic, nickel-free construction",
+      "occasion": "Versatile for both casual and formal occasions"
+    }
+  },
+  {
+    "id": 30,
+    "category": "earrings",
+    "title": "Earrings - Blossom Trail Dangling Ear Climber",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e6.jpg",
+    "description": "Grace meets modern elegance in the Blossom Trail Dangling Ear Climber by Maverick Jewels. This artistic piece showcases a dainty arrangement of pink and white floral crystals that trace the ear like a delicate vine. A single drop chain descends from the main floral motif, finished with a petite pearl-like bead, adding movement and charm.",
+    "inStock": true,
+    "features": {
+      "design": "Floral ear climber with a dangling chain",
+      "stones": "Pink and white cubic zirconia crystals plus faux pearl drop",
+      "metal": "Hypoallergenic silver-tone alloy with optional rose gold or gold plating",
+      "style": "Asymmetrical design with floral climber and single drop chain",
+      "fit": "Lightweight and comfortable; designed to hug the ear securely",
+      "size": "Approx. 2.5\u20133 cm total length (chain included)",
+      "closure": "Standard stud with ear cuff support for climber stability",
+      "wearability": "Ideal for casual, festive, or romantic looks",
+      "packaging": "Delivered in a soft Maverick Jewels velvet pouch or box",
+      "care": "Tarnish-resistant; clean with a soft dry cloth after use"
+    }
+  },
+  {
+    "id": 31,
+    "category": "necklaces",
+    "title": "Pendant - Infinity Trinity Gold Pendant",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n13.jpg",
+    "description": "A symbol of endless elegance, the Infinity Trinity Pendant by Maverick Jewels blends modern artistry with timeless symbolism. Crafted in luminous customizable gold, this pendant showcases an interlocking trinity knot \u2014 a graceful representation of eternity, unity, and love. One loop is encrusted with sparkling round-cut diamonds, adding radiant brilliance to the intertwined design, while the polished gold segments bring warm sophistication.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "stone": "Premium-quality round-cut diamonds",
+      "designInspiration": "Trinity knot, symbolizing infinity and unity",
+      "occasion": "Ideal for daily elegance, meaningful gifts, or anniversaries"
+    }
+  },
+  {
+    "id": 33,
+    "category": "bracelets",
+    "title": "Bracelets - Radiant Baguette-Cut Diamond Bracelet",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b37.jpg",
+    "description": "Exude timeless grace with the Radiant Baguette-Cut Diamond Bracelet by Maverick Jewels. This exquisite piece is a celebration of fine craftsmanship and delicate brilliance. Designed with a central cluster of baguette and marquise-cut cubic zirconia stones arranged in a radiant floral pattern, the bracelet flows into a slender line of shimmering pav\u00e9-set stones that encircle the wrist with sophistication.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "design": "Central baguette-marquise cluster with sleek pav\u00e9 stone-lined chain",
+      "stones": [
+        "Baguette-cut cubic zirconia",
+        "Marquise-cut cubic zirconia",
+        "Round-cut cubic zirconia"
+      ],
+      "finish": "Luxurious, high-polish finish for exceptional brilliance",
+      "clasp": "Lobster clasp or box clasp with safety for secure wear",
+      "style": "Ideal for weddings, parties, or refined everyday elegance",
+      "comfort": [
+        "Lightweight",
+        "Hypoallergenic",
+        "Nickel-free"
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "category": "bracelets",
+    "title": "Bracelets - Trinity Butterfly Diamond Cuff Bracelet",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b8.jpg",
+    "description": "Celebrate elegance and transformation with the Trinity Butterfly Diamond Cuff Bracelet by Maverick Jewels. This luxurious cuff bracelet features a captivating arrangement of five butterfly motifs, crafted in a harmonious blend of yellow gold, white gold, and rose gold. Each butterfly is intricately encrusted with brilliant-cut diamonds, radiating sparkle from every angle. The open cuff design is structured with four parallel rows, each adorned with dazzling diamonds, creating a perfect balance of modern design and timeless beauty.",
+    "inStock": true,
+    "features": {
+      "designName": "Trinity Butterfly Diamond Cuff Bracelet",
+      "material": "Customizable Yellow Gold base with White Gold & Rose Gold accents",
+      "diamondType": "Round brilliant-cut diamonds (micro-pav\u00e9 setting)",
+      "motifs": "5 butterfly motifs in tri-tone gold (Yellow, White & Rose)",
+      "structure": "Open cuff with four sleek, diamond-studded rows",
+      "finish": "High-polish surface with precise stone placement for maximum brilliance",
+      "style": "Elegant statement jewelry suitable for both grand occasions and luxury fashion wear",
+      "fit": "Open cuff design for adjustable and comfortable fit"
+    }
+  },
+  {
+    "id": 35,
+    "category": "bracelets",
+    "title": "Bracelets - Infinity Link Diamond Bracelet",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b35.jpg",
+    "description": "Wrap your wrist in grace with the Infinity Link Diamond Bracelet by Maverick Jewels \u2014 a delicate expression of enduring elegance and timeless charm. Crafted in lustrous customizable gold, this bracelet features a series of alternating infinity symbols, each delicately paved with dazzling white diamonds.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "designMotif": "Alternating open infinity links representing eternity and unity",
+      "diamondDetailing": "Brilliant-cut white diamonds set along alternating links",
+      "chainType": "Sleek gold chain with adjustable length and secure clasp",
+      "finish": "Smooth, mirror-polished gold finish for an elegant shine",
+      "wearStyle": "Comfortable, lightweight, and ideal for daily or occasion wear",
+      "occasion": "Suitable for gifting, anniversary, casual elegance, or layering with other bangles"
+    }
+  },
+  {
+    "id": 36,
+    "category": "earrings",
+    "title": "Earrings - Sleek Spark Curve Hoops",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e38.jpg",
+    "description": "Elevate your everyday elegance with the Sleek Spark Curve Hoops by Maverick Jewels. These distinctive rose gold-toned earrings feature a graceful, asymmetrical curve that subtly twists for a modern, sculptural silhouette. A delicate row of pav\u00e9-set cubic zirconia runs along the outer edge, catching the light from every angle.",
+    "inStock": true,
+    "features": {
+      "design": "Asymmetric curved hoop with a sleek, contoured finish",
+      "material": "Rose gold-tone with high polish for a radiant glow (Customizable)",
+      "gemstones": "Single row of precision-set cubic zirconia along the front edge",
+      "shape": "Elongated, curved drop with a pointed taper at the base",
+      "closure": "Secure hinged lever back clasp for comfortable wear",
+      "styleVibe": "Modern minimalism with luxe sparkle",
+      "size": "Medium-large, bold enough for statement wear yet refined",
+      "occasion": "Perfect for formal and casual ensembles with a touch of chic sophistication"
+    }
+  },
+  {
+    "id": 37,
+    "category": "earrings",
+    "title": "Earrings - Diamond Blossom Cluster Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e20.jpg",
+    "description": "Grace your ears with timeless floral elegance. The Diamond Blossom Cluster Earrings by Maverick Jewels are a radiant celebration of nature\u2019s beauty, designed for those who appreciate sophisticated sparkle and feminine charm.",
+    "inStock": true,
+    "features": {
+      "design": "Dual floral clusters with a 3D layered effect",
+      "stones": "High-grade cubic zirconia or natural diamonds (optional variant)",
+      "stoneCuts": "Pear-shaped and round brilliant",
+      "metalBase": "Rhodium-plated silver or white gold (Customized available)",
+      "finish": "Mirror-polished, anti-tarnish coating",
+      "closure": "Comfortable push-back/post setting",
+      "comfort": "Lightweight and non-irritating for all-day wear",
+      "style": "Floral, feminine, and festive",
+      "occasions": "Great for weddings, gifting, festive occasions, and cocktail parties"
+    }
+  },
+  {
+    "id": 38,
+    "category": "necklaces",
+    "title": "Pendant - Trio Harmony Pendant in Yellow Gold",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n11.jpg",
+    "description": "Delicate, refined, and effortlessly modern \u2013 the Trio Harmony Pendant is a celebration of individuality and unity. Set in warm 14K yellow gold, this minimalist design features three distinct diamond cuts: a marquise-cut, baguette-cut, and round brilliant-cut, each uniquely positioned to create a beautifully asymmetrical arrangement. This trio of sparkle brings together classic and contemporary elements, perfect for everyday elegance or layered luxury.",
+    "inStock": true,
+    "features": {
+      "diamondCuts": "Marquise, Baguette, and Round Brilliant",
+      "metal": "Customizable",
+      "style": "Minimalist & Contemporary",
+      "chainType": "Fine cable chain",
+      "aesthetic": "Lightweight, luminous, and versatile"
+    }
+  },
+  {
+    "id": 39,
+    "category": "rings",
+    "title": "Rings - Triple Row Brilliance Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "51,480.19",
+    "originalPrice": "57,200.21",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r3.jpg",
+    "description": "Sophisticated, sleek, and designed for everyday royalty - the Triple Row Brilliance Ring by Maverick Jewels is a celebration of modern refinement. Crafted in gleaming yellow gold, this ring features three vertical rows of high-clarity diamonds, precisely set to maximize sparkle and symmetry. The smooth, contoured band enhances comfort, while its polished finish radiates timeless elegance.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 \u2013 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold",
+      "styleCategory": "Men's classic fashion ring / Celebration ring / Anniversary band"
+    }
+  },
+  {
+    "id": 41,
+    "category": "bracelets",
+    "title": "Bracelets - Diamond Wave Pattern Designer Bangle",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b12.jpg",
+    "description": "Indulge in artistic brilliance with this Diamond Wave Bangle from Maverick Jewels. Designed with a graceful, undulating silhouette, this bangle redefines elegance with its wave-inspired form and intricate craftsmanship. Sparkling pav\u00e9-set diamonds accentuate every curve, while marquise-style diamond clusters are seamlessly embedded to add a regal touch. The detailed inner gallery ensures both comfort and finesse, making it a sophisticated choice for timeless wear.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "design": "Sculpted wave form with symmetrical flow",
+      "gemstones": [
+        "Pav\u00e9-set round brilliant diamonds",
+        "Elegant marquise diamond cluster accents"
+      ],
+      "finish": "High-polish finish with filigree-style inner gallery",
+      "structure": "Durable with ergonomic contour for comfort",
+      "clasp": "Secure closure hidden within the design",
+      "style": "Artistic, refined, and versatile",
+      "occasions": "Ideal for weddings, evening events, or elegant gifting"
+    }
+  },
+  {
+    "id": 43,
+    "category": "earrings",
+    "title": "Earrings - Trinity Spark Cluster Diamond Stud Earrings",
+    "brand": "MACERICK Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e28.jpg",
+    "description": "Add a timeless sparkle to your collection with the Trinity Spark Cluster Stud Earrings. These elegant earrings feature a harmonious trio of dazzling stones, arranged in a delicate triangular cluster that captures light from every angle. Set in a warm rose gold base, the design is graceful and symmetrical, perfect for both casual elegance and formal sophistication.",
+    "inStock": true,
+    "features": {
+      "design": "Triangular cluster made of three high-clarity stones",
+      "stoneShapes": "2 pear-cut and 1 round-cut simulated diamonds",
+      "metal": "Polished rose gold-toned base (customizable)",
+      "setting": "Secure prong setting for maximum brilliance",
+      "closure": "Screw-back post for added security and comfort",
+      "size": "Petite yet eye-catching, ideal for daily wear or layered styling",
+      "styleNote": "Minimalist sparkle with a luxurious feel, versatile for any occasion"
+    }
+  },
+  {
+    "id": 44,
+    "category": "bracelets",
+    "title": "Bracelets - Twin Chain Halo Charm Bracelet",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b33.jpg",
+    "description": "Step into everyday elegance with the Twin Chain Halo Charm Bracelet from Maverick Jewels. Designed for those who appreciate fine detailing in minimalism, this bracelet features a brilliant rectangular halo centerpiece encrusted with micro-pav\u00e9 cubic zirconia. The dual chain style in a delicate bead texture adds a contemporary twist, making this bracelet a refined choice for both casual chic and formal looks.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "design": "Rectangular halo charm with twin micro-beaded chains",
+      "stones": "High-grade cubic zirconia in baguette and round settings",
+      "finish": "Polished dual-tone finish for a luxe contrast",
+      "closure": "Adjustable sliding clasp for perfect fit",
+      "style": "Ideal for daily wear, office style, or subtle occasion glam",
+      "comfort": [
+        "Lightweight",
+        "Nickel-free",
+        "Hypoallergenic"
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "category": "bracelets",
+    "title": "Bracelets - Enchanted Contour Diamond Bangle",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b5.jpg",
+    "description": "Introducing the Enchanted Contour Diamond Bangle from Maverick Jewels\u2014a captivating blend of old-world artistry and modern glamour. This uniquely contoured bangle in 18K yellow gold features a flowing, wave-like silhouette that gracefully hugs the wrist. Delicately encrusted with round-cut diamonds on the outer curve and accented with intricate filigree detailing on the inner band, this piece exudes both elegance and craftsmanship.",
+    "inStock": true,
+    "features": {
+      "designName": "Enchanted Contour Diamond Bangle",
+      "material": "Customizable",
+      "diamondType": "Premium round brilliant-cut diamonds",
+      "shape": "Organic, wavy contour for a distinctive silhouette",
+      "designDetails": {
+        "front": "Full diamond-encrusted outer curve for luxurious sparkle",
+        "sides": "Vintage-inspired filigree with inset diamonds"
+      },
+      "craftsmanship": "Openwork carving for lightweight elegance and breathability",
+      "finish": "Mirror-polished finish with precision-cut stone placement",
+      "style": "A statement piece perfect for high-fashion occasions and traditional charm",
+      "fit": "Closed bangle with sculpted edges for a snug yet comfortable fit"
+    }
+  },
+  {
+    "id": 47,
+    "category": "bracelets",
+    "title": "Bracelets - Rose Gold Floral Vine Bracelet",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b30.jpg",
+    "description": "Add a touch of romantic charm to your jewelry collection with the customizable Gold Floral Vine Bracelet from Maverick Jewels. Designed to capture the essence of graceful femininity, this bracelet features a sleek rose gold band adorned with an intricate vine-like motif. The design is highlighted with sparkling heart-shaped clusters of cubic zirconia, symbolizing blooming elegance and natural beauty.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "design": "Floral vine-inspired openwork detailing with heart-shaped stone clusters",
+      "stones": [
+        "Sparkling cubic zirconia in pav\u00e9 setting"
+      ],
+      "finish": "Glossy, high-polish rose gold surface",
+      "closure": "Secure hinged clasp for easy wear",
+      "style": "Perfect for formal events, date nights, and special occasions",
+      "comfort": [
+        "Lightweight",
+        "Skin-friendly",
+        "Nickel-free"
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "category": "bracelets",
+    "title": "Bracelets - Double Row Classic Diamond Tennis Bracelet",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b38.jpg",
+    "description": "Turn heads with timeless sparkle in the Double Row Classic Diamond Tennis Bracelet by Maverick Jewels. This elegant piece features two parallel rows of dazzling round-cut cubic zirconia stones, each carefully prong-set in a warm gold-toned base. The symmetrical design offers a rich, refined look while delivering double the brilliance \u2014 ideal for upscale evenings or polished everyday style.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "design": "Twin-row setting with uniform round-cut CZ stones",
+      "stones": "Brilliant-cut cubic zirconia with high refractive index",
+      "finish": "Glossy, gold-tone polish for added sophistication",
+      "clasp": "Secure box clasp with side latch for a reliable fit",
+      "style": "Perfect for weddings, parties, or luxury casualwear",
+      "comfort": "Lightweight, skin-safe, hypoallergenic, and nickel-free"
+    }
+  },
+  {
+    "id": 49,
+    "category": "rings",
+    "title": "Rings - Imperial Tier Pav\u00e9 Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "37,942.64",
+    "originalPrice": "50,590.18",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r13.jpg",
+    "description": "A bold emblem of success and sophistication, the Imperial Tier Pav\u00e9 Ring is designed for the man who commands attention. With a grand rectangular tiered setting encrusted in multiple rows of round-cut diamonds, this ring delivers a powerful presence. Clean lines, sculpted symmetry, and rich yellow gold create a modern yet regal feel \u2013 perfect for formal flair or daily prestige.",
+    "inStock": false,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth and comfortable interior band",
+      "diamondArrangement": {
+        "centerpiece": "Multi-row pav\u00e9-set diamonds across a raised rectangular tier",
+        "shoulders": "Side panels and shoulders adorned with matching pav\u00e9 diamonds",
+        "diamondWeight": "Approx. total diamond weight: 1.25 \u2013 1.50 carats (customizable)"
+      },
+      "designHighlights": [
+        "Double-decked rectangular face structure with curved contour",
+        "Three-section shoulder detailing for visual strength",
+        "Slightly domed centerpiece gives dimensional elevation"
+      ],
+      "finish": "Polished gold base with high-clarity diamond sparkle",
+      "styleCategory": "Luxury men's cocktail ring / Anniversary gift / Elite fashion accessory"
+    }
+  },
+  {
+    "id": 50,
+    "category": "necklaces",
+    "title": "Necklace - Emerald Cascade Diamond Necklace",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n26.jpg",
+    "description": "Grace meets geometry in the Emerald Cascade Diamond Necklace by Maverick Jewels. This refined creation features a symmetrical diamond-studded chain leading into a vertical drop design that showcases a series of five stunning pear and oval-shaped emeralds. Each emerald is framed by glistening white diamonds, creating a visual flow that mimics a cascading waterfall of luxury. Perfect for both traditional and contemporary looks, this necklace adds regal poise to any special occasion attire.",
+    "inStock": true,
+    "features": {
+      "designStyle": "Vertical emerald drop with sleek symmetry",
+      "stonesUsed": "Natural emeralds & certified diamonds",
+      "stoneShapes": "Oval and pear-cut emeralds",
+      "baseMetal": "Dual-tone gold finish (yellow & white)",
+      "craftsmanship": "Precision prong setting with detailed diamond halos",
+      "occasion": "Ideal for weddings, receptions, festive soir\u00e9es & formal events",
+      "vibe": "Classic elegance with a modern silhouette"
+    }
+  },
+  {
+    "id": 51,
+    "category": "earrings",
+    "title": "Earrings - Blossom Rose Gold Ear Climber",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e10.jpg",
+    "description": "Designed to mimic a delicate blooming branch, this earring combines fine craftsmanship with a soft, romantic aesthetic. Featuring a textured rose gold flower and shimmering cubic zirconia leaves, it elegantly follows the curve of your ear for a refined, natural look.",
+    "inStock": true,
+    "features": {
+      "design": "Floral-inspired ear climber with a detailed blossom and branch motif",
+      "color": "Romantic rose gold tone for a soft, feminine touch",
+      "stones": "Micro-paved cubic zirconia on leaves for brilliant sparkle",
+      "finish": "High-shine polished finish with intricate petal detailing",
+      "material": "Hypoallergenic alloy with rose gold plating",
+      "fit": "Designed to hug the ear comfortably with a secure back post",
+      "size": "Approx. 2.5 cm in length \u2013 ideal for elegant contour coverage",
+      "occasion": "Perfect for weddings, brunches, dates, or daily chic wear",
+      "packaging": "Comes in signature Maverick Jewels luxury gift box",
+      "careInstructions": "Keep dry, wipe with soft cloth, avoid perfumes"
+    }
+  },
+  {
+    "id": 52,
+    "category": "earrings",
+    "title": "Earrings - Petal Radiance Stud Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e24.jpg",
+    "description": "Step into effortless elegance with the Petal Radiance Stud Earrings from Maverick Jewels. Crafted to perfection, these stunning studs feature a five-petal floral design, each petal shaped from shimmering pear-cut cubic zirconia, radiating brilliance from every angle. Set in a polished rhodium-plated base, these earrings blend classic charm with a contemporary edge.",
+    "inStock": true,
+    "features": {
+      "design": "Elegant floral motif with five pear-shaped stones",
+      "material": "Premium rhodium-plated alloy (Customized available)",
+      "stones": "High-grade cubic zirconia (diamond simulants)",
+      "fastening": "Comfortable push-back closure",
+      "hypoallergenic": "Nickel-free and safe for sensitive skin",
+      "occasion": "Perfect for weddings, formal occasions, or everyday luxury"
+    }
+  },
+  {
+    "id": 53,
+    "category": "bracelets",
+    "title": "Bracelets - Geometric Elegance Open Cuff Bracelet",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b31.jpg",
+    "description": "Redefine modern sophistication with this striking Geometric Elegance Open Cuff Bracelet from Maverick Jewels. Featuring a sleek, minimalistic open cuff design, this bracelet is accentuated by a stunning cluster of diamond-shaped motifs, half polished and half pav\u00e9-set with dazzling cubic zirconia. The contrast of clean lines with brilliant sparkle creates a bold yet refined aesthetic.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "design": "Open cuff with asymmetrical diamond-shaped cluster detailing",
+      "stones": [
+        "High-quality cubic zirconia for extra brilliance"
+      ],
+      "finish": "Combination of glossy polish and pav\u00e9 texture",
+      "style": "Ideal for minimalist, contemporary, or statement looks",
+      "fit": "Adjustable open-ended cuff for easy wear and comfort",
+      "skinFriendly": "Hypoallergenic and nickel-free"
+    }
+  },
+  {
+    "id": 54,
+    "category": "necklaces",
+    "title": "Pendant - Trinity Grace Pendant in Rose Gold",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n17.jpg",
+    "description": "Experience elegance from every angle with our Trinity Grace Pendant, a unique masterpiece that merges bold geometry with radiant brilliance. Set in warm rose gold, this design features a captivating trio of diamonds: a vertical emerald-cut stone sits atop two luminous marquise-cut diamonds, forming a modern, abstract floral motif. The open setting allows each diamond to reflect light from all directions\u2014capturing the essence of luxury in motion.",
+    "inStock": true,
+    "features": {
+      "diamondCuts": "1 Emerald-Cut + 2 Marquise-Cut Diamonds",
+      "metal": "Customizable",
+      "designTheme": "Abstract floral with a contemporary edge",
+      "settingStyle": "Three-stone open prong",
+      "chain": "Matching rose gold link chain",
+      "styleVibe": "Glamorous yet modern"
+    }
+  },
+  {
+    "id": 55,
+    "category": "rings",
+    "title": "Rings - Valor Solitaire Textured Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "22,758.16",
+    "originalPrice": "30,344.21",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r45.jpg",
+    "description": "The Valor Solitaire Textured Ring by Maverick Jewels is where contemporary styling meets time-honored strength. Crafted in radiant yellow gold, this ring features a precision-set solitaire diamond framed by intricate bead-texture shoulders. Bold bevels and sleek curves give it a modern edge, making it a distinguished choice for the man of taste and conviction.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable, high-polish finish for lasting brilliance and wearability",
+      "edges": "Smooth, rounded interior for all-day comfort",
+      "diamondCenterpiece": {
+        "diamond": "1 round brilliant-cut solitaire diamond",
+        "setting": "Four-prong setting ensures security and maximum light reflection",
+        "diamondWeight": "Approx. diamond weight: ~0.15 to 0.30 carat (customizable)"
+      },
+      "designHighlights": [
+        "Raised V-groove shoulders with unique bead-texture detailing",
+        "Modern, symmetrical band with beveled cut-ins",
+        "Slim profile with bold presence"
+      ],
+      "finish": "Glossy top surface with fine matte bead accents",
+      "styleCategory": "Signature men's solitaire ring / Modern engagement band / Everyday luxury wear"
+    }
+  },
+  {
+    "id": 57,
+    "category": "earrings",
+    "title": "Earrings - Blooming Vine Diamond Ear Jacket Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e23.jpg",
+    "description": "Step into elegance with these Blooming Vine Ear Jacket Earrings, where natural floral grace meets high-end craftsmanship. This designer piece from Maverick Jewels is a statement of luxury and sophistication, crafted to gently contour the ear and draw attention to your impeccable style.",
+    "inStock": true,
+    "features": {
+      "design": "Floral ear jacket with upward vine curve",
+      "frontStud": "Clustered flower motif in marquise and round-cut stones",
+      "backPiece": "Curved ear jacket with additional petal elements",
+      "material": "925 Sterling Silver or 18K White Gold finish (Customized available)",
+      "stones": "Premium AAA Cubic Zirconia / Natural diamonds on request",
+      "settingType": "Prong and micro pave",
+      "closure": "Push-back closure with dual-piece structure",
+      "style": "Luxurious & feminine, suitable for weddings, galas, and festive wear",
+      "highlight": "Lightweight yet high-impact with a sculptural, ear-hugging fit"
+    }
+  },
+  {
+    "id": 58,
+    "category": "earrings",
+    "title": "Earrings - Eternal Drop Diamond Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e47.jpg",
+    "description": "Classic elegance meets contemporary charm in the Eternal Drop Diamond Earrings by Maverick Jewels. These refined earrings feature a graceful teardrop silhouette in high-polish yellow gold, accented with two dazzling round-cut cubic zirconia stones\u2014one delicately placed at the loop's apex and another free-floating at the base, catching light with every movement.",
+    "inStock": true,
+    "features": {
+      "design": "Open teardrop shape with dual-stone accent",
+      "finish": "Glossy yellow gold tone with white stone contrast",
+      "stones": "High-quality round-cut cubic zirconia (diamond simulant)",
+      "setting": "Prong-set upper stone and bezel-set floating drop stone",
+      "closure": "Butterfly push-back post for secure, all-day wear",
+      "occasions": "Ideal for anniversaries, formal evenings, or everyday elegance",
+      "size": "Medium drop length\u2014balanced for subtle yet noticeable glamour"
+    }
+  },
+  {
+    "id": 59,
+    "category": "necklaces",
+    "title": "Necklace - Emerald Dewdrop Diamond Necklace",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n28,.jpg",
+    "description": "Simplicity meets sheer sophistication in the Emerald Dewdrop Diamond Necklace by Maverick Jewels. This refined piece features a cascading line of perfectly set pear-shaped diamonds that gracefully converge into a striking V-drop formation. At the center rests a mesmerizing pear-cut emerald, framed by a delicate halo of brilliant diamonds \u2014 resembling a sparkling dewdrop kissed by nature. The minimal yet luxurious design makes it an ideal choice for modern brides, evening soir\u00e9es, and timeless elegance.",
+    "inStock": true,
+    "features": {
+      "designTheme": "Minimalist elegance with a modern V-drop",
+      "centerpiece": "Pear-shaped natural emerald with diamond halo",
+      "stoneSetting": "Pear and marquise-cut diamonds in prong setting",
+      "metalFinish": "White rhodium over gold base",
+      "occasion": "Perfect for weddings, red carpet events, or anniversary gifts",
+      "styleVibe": "Graceful, chic, and effortlessly elegant"
+    }
+  },
+  {
+    "id": 60,
+    "category": "necklaces",
+    "title": "Necklace Set - Emerald Blossom Bridal Set",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n29.jpg",
+    "description": "Celebrate elegance in full bloom with the Emerald Blossom Bridal Set by Maverick Jewels. This enchanting ensemble features a radiant necklace and matching earrings, adorned with sparkling diamonds, graceful floral motifs, and vivid green emeralds. At the center lies a striking emerald-cut green stone, beautifully framed in a diamond halo. Rose gold floral accents add a romantic touch, cascading into delicate teardrop diamond drops that sway with every move \u2013 creating a captivating dance of light and luxury. The earrings mirror the same elegance, completing the look with symmetry and sophistication.",
+    "inStock": true,
+    "features": {
+      "includes": "Necklace + Matching Earrings",
+      "stoneType": "Certified diamonds & emerald-cut green gemstones",
+      "designElements": "Floral motifs, diamond halos & drop chains",
+      "metalFinish": "Dual-tone (white rhodium & rose gold plating)",
+      "occasion": "Perfect for bridal wear, receptions, or festive evenings",
+      "vibe": "Romantic, graceful, and intricately detailed"
+    }
+  },
+  {
+    "id": 61,
+    "category": "bracelets",
+    "title": "Bracelets - Regal Teardrop Diamond Bracelet",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b39.jpg",
+    "description": "Celebrate elegance with the Regal Teardrop Diamond Bracelet by Maverick Jewels \u2014 a masterpiece that exudes timeless sophistication. This eye-catching bracelet features a sequence of teardrop-shaped motifs, each set with a sparkling solitaire-style cubic zirconia stone at its center, bordered by a halo of micro-set accent stones. The warm rose gold setting adds richness and refinement, making it perfect for grand occasions or upscale everyday wear.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "design": "Linked teardrop-shaped settings with central solitaire CZ stones",
+      "stones": [
+        "Pear-cut cubic zirconia",
+        "Round-cut cubic zirconia"
+      ],
+      "finish": "Glossy rose gold polish with a luxurious shine",
+      "clasp": "Box clasp with safety latch for secure fit",
+      "style": "Ideal for festive events, bridal looks, or elegant evenings",
+      "comfort": [
+        "Lightweight",
+        "Hypoallergenic",
+        "Nickel-free"
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "category": "bracelets",
+    "title": "Bracelets - Vintage Aura Diamond Bangle Bracelet",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b29.jpg",
+    "description": "Embrace understated luxury with the Vintage Aura Diamond Bangle Bracelet from Maverick Jewels. Inspired by classic vintage motifs, this elegant piece features a square-cut center stone surrounded by a halo of sparkling zirconia, flanked by delicate leaf-shaped accents that create a graceful and balanced design. The rose gold-toned band adds a soft warmth, perfect for adding charm to any ensemble.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "design": "Center square-cut zirconia with halo setting and leaf-inspired side accents",
+      "stones": "High-quality cubic zirconia (square and marquise cuts)",
+      "finish": "Lustrous rose gold polish with detailed craftsmanship",
+      "clasp": "Hinged bangle with secure clasp closure",
+      "style": "Ideal for formal events, traditional occasions, or elegant everyday wear",
+      "comfort": "Hypoallergenic, nickel-free, and skin-safe"
+    }
+  },
+  {
+    "id": 63,
+    "category": "necklaces",
+    "title": "Necklace - Royal Radiance Emerald & Sapphire Necklace",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n8.jpg",
+    "description": "Step into regal splendor with the Royal Radiance Emerald & Sapphire Necklace from Maverick Jewels. This graceful masterpiece blends timeless tradition with modern finesse, featuring a sequence of vivid oval-cut emeralds framed in delicate diamond halos and ornamental diamond motifs. The focal centerpiece showcases a square-cut emerald surrounded by a radiant diamond burst, culminating in a stunning violet-blue sapphire drop \u2014 adding a pop of contrast and luxurious charm. The intricate design speaks of heritage elegance while remaining lightweight and versatile for various occasions.",
+    "inStock": true,
+    "features": {
+      "designStyle": "Heritage floral with gemstone contrast",
+      "primaryStones": "Oval and square-cut emeralds, brilliant diamonds",
+      "dropStone": "Natural sapphire in a soft lavender-blue hue",
+      "metalFinish": "Yellow gold with white rhodium plating",
+      "settingStyle": "Prong and bezel with detailed craftsmanship",
+      "occasion": "Weddings, receptions, engagements, and cultural events",
+      "vibe": "Royal, delicate, and effortlessly elegant"
+    }
+  },
+  {
+    "id": 64,
+    "category": "bracelets",
+    "title": "Bracelets - Sapphire Accent Diamond Bangle",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b19.jpg",
+    "description": "A masterpiece of elegance and color, this designer bangle from Maverick Jewels showcases a captivating blend of tradition and luxury. Crafted in rich yellow gold, the bangle features a graceful wave-inspired structure that beautifully encircles the wrist. Accentuated with deep blue sapphire gemstones and shimmering white diamonds, it\u2019s the perfect expression of refined taste and timeless beauty. Each sapphire is securely nestled in a detailed gold setting, creating a bold yet sophisticated statement piece.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "gemstones": [
+        "Royal Blue Sapphires set in symmetrical intervals",
+        "Sparkling round-cut diamonds lined along the wave curves"
+      ],
+      "design": "Artistic wave pattern with open detailing",
+      "finish": "High-polish gold with precision stone setting",
+      "clasp": "Secure and seamless locking mechanism",
+      "style": "Regal, elegant, and ideal for special occasions",
+      "idealFor": "Weddings, festive celebrations, and luxury gifting"
+    }
+  },
+  {
+    "id": 65,
+    "category": "necklaces",
+    "title": "Necklace - Royal Ros\u00e9 Bloom Necklace",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n24.jpg",
+    "description": "Celebrate grandeur with the Royal Ros\u00e9 Bloom Necklace by Maverick Jewels \u2014 a majestic creation that captures timeless beauty and intricate craftsmanship. This breathtaking design features a luxurious rose gold base adorned with spiraling loops of pav\u00e9-set diamonds, forming a symphony of elegance across the neckline. Each swirl is embellished with petite drop-shaped diamond danglers, adding a playful shimmer and graceful movement. The centerpiece showcases an intricate floral motif that blossoms into a double-layered petal design, exuding regality with every sparkle.",
+    "inStock": true,
+    "features": {
+      "designTheme": "Regal floral with spiral and tassel elements",
+      "metalFinish": "Rose gold with white rhodium and high-polish texture",
+      "gemstoneSetting": "Brilliant-cut diamonds in pav\u00e9, drop, and floral cuts",
+      "necklaceHighlights": "Diamond tassel drops along the chain for movement",
+      "occasion": "Ideal for bridal wear, receptions, and festive galas",
+      "styleVibe": "Ornate, statement-making, and exquisitely royal"
+    }
+  },
+  {
+    "id": 66,
+    "category": "necklaces",
+    "title": "Necklace - Symphony of Shapes Diamond Necklace",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n16.jpg",
+    "description": "A true celebration of geometry and grace, the Symphony of Shapes Necklace unites princess, round, and baguette-cut diamonds in a beautifully asymmetrical yet balanced arrangement. Set in elegant white gold, this modern masterpiece showcases exceptional brilliance with a playful yet refined flair. Each diamond cut tells its own story, creating a harmonious composition that\u2019s perfect for everyday elegance or statement layering.",
+    "inStock": true,
+    "features": {
+      "metal": "Customizable",
+      "diamondCuts": "Princess, Round Brilliant, and Baguette",
+      "design": "Contemporary, asymmetrical line pendant",
+      "styleVibe": "Sleek, youthful, and artfully chic",
+      "perfectFor": "Minimalist luxe and fashion-forward looks"
+    }
+  },
+  {
+    "id": 67,
+    "category": "necklaces",
+    "title": "Pendant - Classic Radiance Halo Pendant",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n14.jpg",
+    "description": "A symbol of refined grace, the Classic Radiance Pendant features a dazzling brilliant-cut solitaire diamond framed by a radiant halo of pav\u00e9-set diamonds. The pendant is suspended from a diamond-studded bail, enhancing its brilliance and giving it an effortlessly elegant silhouette. Crafted in 18K white gold, the sleek, polished finish complements the fiery sparkle of the stones, making this piece a timeless addition to any fine jewelry collection.",
+    "inStock": true,
+    "features": {
+      "centerpiece": "Round brilliant-cut diamond",
+      "accentStones": "Pav\u00e9-set diamonds on halo and bail",
+      "metal": "Customizable",
+      "chain": "Elegant white gold link chain",
+      "style": "Sophisticated & timeless",
+      "idealFor": "Celebrations, milestones, or classic everyday luxury"
+    }
+  },
+  {
+    "id": 68,
+    "category": "bracelets",
+    "title": "Bracelets - Diamond Leaf Motif Bangle",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b13.jpg",
+    "description": "Grace meets brilliance in this Diamond Leaf Motif Bangle by Maverick Jewels. Inspired by nature\u2019s delicate beauty, this bangle features interlinked leaf-like patterns, each encrusted with pav\u00e9-set diamonds that radiate sparkle with every movement. Crafted in yellow gold, the flowing design combines elegance and contemporary flair, making it an exceptional piece for both daily luxury and festive occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "design": "Repeating leaf motif with an organic, fluid arrangement",
+      "gemstones": [
+        "Round brilliant-cut diamonds, pav\u00e9 set for maximum brilliance"
+      ],
+      "finish": "Glossy high-polish with precise diamond setting",
+      "comfort": "Smooth interior with intricate lattice structure",
+      "clasp": "Seamlessly integrated secure locking system",
+      "style": "Elegant, nature-inspired, timeless",
+      "occasion": "Suitable for parties, bridal wear, and sophisticated daily wear"
+    }
+  },
+  {
+    "id": 69,
+    "category": "necklaces",
+    "title": "Necklace - Blossom Radiance Diamond Necklace",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n9.jpg",
+    "description": "Let your style bloom with the Blossom Radiance Diamond Necklace by Maverick Jewels. Inspired by nature\u2019s most elegant form \u2013 the flower \u2013 this stunning piece showcases a magnificent central floral motif, meticulously crafted in rose gold and set with dazzling round-cut diamonds. Leaf-shaped diamond clusters gracefully ascend along the neckline, joined by a twisted gold vine design that adds flow and dimension. A delicate teardrop diamond drop enhances the final flourish, making this necklace the perfect harmony of nature and luxury.",
+    "inStock": true,
+    "features": {
+      "designTheme": "Floral elegance with a vine-inspired chain",
+      "material": "Rose gold with white rhodium finish",
+      "stoneSetting": "Round-cut certified diamonds in floral and leaf patterns",
+      "pendantDetail": "Lotus-inspired bloom with teardrop diamond dangle",
+      "occasion": "Ideal for festive wear, wedding functions & statement gifting",
+      "styleVibe": "Graceful, radiant, and nature-inspired"
+    }
+  },
+  {
+    "id": 70,
+    "category": "earrings",
+    "title": "Earrings - Lyra Pav\u00e9 Link Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e42.jpg",
+    "description": "Elevate your elegance with the bold sophistication of the Lyra Pav\u00e9 Link Earrings from Maverick Jewels. Inspired by the classic chain motif, this design fuses high-shine rose gold links with a glittering pav\u00e9-encrusted oval top. The interplay of texture and structure creates a dynamic look\u2014perfect for those who embrace modern glamour with timeless confidence.",
+    "inStock": true,
+    "features": {
+      "design": "Interlinked chain-style structure with pav\u00e9-set top link",
+      "material": "Premium rose gold-plated alloy (Customized available)",
+      "stones": "Micro pav\u00e9-set cubic zirconia for refined brilliance",
+      "finish": "High-luster polish with delicate stonework contrast",
+      "closure": "Clip-back clasp for comfortable and secure wear",
+      "statementStyle": "Feminine, luxurious, and fashion-forward",
+      "bestFor": "Power dressing, special evenings, or gifting with meaning"
+    }
+  },
+  {
+    "id": 71,
+    "category": "bracelets",
+    "title": "Bracelets - Regal Petal Diamond Bracelet",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b10.jpg",
+    "description": "Elevate your elegance with the Regal Petal Diamond Bracelet by Maverick Jewels\u2014a radiant blend of tradition and sophistication. Crafted in Customized gold, this designer piece features a series of petal-inspired motifs adorned with pav\u00e9-set round brilliant diamonds, seamlessly linked by polished gold bars. Each motif embodies timeless charm, making this bracelet a graceful companion for festive occasions, weddings, or refined evening wear.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "design": "Petal-inspired dual-leaf design with center accents",
+      "diamondType": "Round brilliant-cut diamonds",
+      "setting": "Pav\u00e9 and prong setting for maximum sparkle",
+      "structure": "Articulated bracelet with secure clasp mechanism",
+      "finish": "High-polish gold finish with precision diamond placement",
+      "style": "Traditional with a modern touch\u2014perfect for ethnic and contemporary outfits",
+      "fit": "Flexible, articulated design for a comfortable, elegant fit"
+    }
+  },
+  {
+    "id": 72,
+    "category": "earrings",
+    "title": "Earrings - Elegant Butterfly Front-Back Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e21.jpg",
+    "description": "Gracefully elegant and subtly whimsical, these Butterfly Front-Back Earrings by Maverick Jewels are a tribute to transformation and beauty. Featuring a butterfly silhouette formed with marquise and pear-cut stones, the top stud is a single pear-shaped diamond or cubic zirconia, while the butterfly body and wings are formed by the back piece, creating a chic layered look that hugs the bottom of the ear.",
+    "inStock": true,
+    "features": {
+      "design": "Butterfly motif, front-back layered style",
+      "stoneCuts": "Pear and marquise-cut stones",
+      "stones": "High-grade cubic zirconia or real diamonds (custom option)",
+      "metal": "Rhodium-plated sterling silver or 18K white gold (Customized available)",
+      "finish": "High-polish shine for a luxurious glow",
+      "fit": "Comfortable push-back closure, secure for daily wear",
+      "styleAppeal": "Ideal for parties, brunch, gifting, or statement minimalism",
+      "uniqueFeature": "Dual-piece construction for a floating effect beneath the ear"
+    }
+  },
+  {
+    "id": 73,
+    "category": "necklaces",
+    "title": "Necklace - Ros\u00e9 Petal Diamond Necklace",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n15.jpg",
+    "description": "Delicate, modern, and effortlessly chic \u2013 the Ros\u00e9 Petal Diamond Necklace captures the essence of graceful femininity. Designed in warm rose gold, this exquisite piece features a rhythmic flow of pear-shaped diamond motifs nestled in soft looped frames, creating the impression of blooming petals around the neckline. At the center, a round-cut solitaire accentuates the V-drop, elegantly finished with a dangling pear diamond for a graceful touch.",
+    "inStock": true,
+    "features": {
+      "design": "Pear-cut diamond motifs with central round solitaire",
+      "metal": "Rose gold finish",
+      "style": "Contemporary elegance with a floral essence",
+      "idealFor": "Bridal trousseaus, cocktail evenings, or anniversary gifts"
+    }
+  },
+  {
+    "id": 74,
+    "category": "earrings",
+    "title": "Earrings - Vesta Dual Band Hoop Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e41.jpg",
+    "description": "Fierce yet refined, the Vesta Dual Band Hoop Earrings from Maverick Jewels are where classic meets edgy glam. These structured hoop earrings feature a bold, dual-layered design\u2014one band polished to a mirror-like shine, the other encrusted with delicate pav\u00e9-set crystals. Crafted in radiant gold-tone metal, the open crescent shape exudes contemporary elegance and confidence.",
+    "inStock": true,
+    "features": {
+      "design": "Double-band open hoop with contrasting textures",
+      "material": "18K gold-plated alloy for a luxurious glow (Customized available)",
+      "stones": "Pav\u00e9-set cubic zirconia for subtle yet stunning sparkle",
+      "finish": "Glossy high-shine gold paired with a shimmer band",
+      "closure": "Sturdy post-back for secure and easy wear",
+      "styleAppeal": "Trend-forward, sculptural, and sleek",
+      "occasions": "Ideal for evening wear, special events, or elevating smart-casual looks"
+    }
+  },
+  {
+    "id": 75,
+    "category": "earrings",
+    "title": "Earrings - Twisted Elegance Rose Gold Hoop Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e31.jpg",
+    "description": "Sculpted to perfection, the Twisted Elegance Hoop Earrings from Maverick Jewels capture the essence of modern glamour. Featuring a graceful intertwining design, these hoops are plated in luxurious rose gold and encrusted with two shimmering rows of round-cut cubic zirconia that spiral gently around the hoop. The result: a look that\u2019s both timeless and striking.",
+    "inStock": true,
+    "features": {
+      "design": "Twisted spiral hoop with dual pav\u00e9 crystal rows",
+      "material": "Rose gold-plated alloy for a soft, glowing finish (Customized available)",
+      "stones": "Precision-set round-cut cubic zirconia",
+      "closure": "Hinged snap clasp for secure wear and ease of use",
+      "finish": "High-polish with brilliant sparkle from every angle",
+      "skinFriendly": "Hypoallergenic and nickel-free",
+      "occasion": "Ideal for formal evenings, festive celebrations, or a luxurious everyday statement"
+    }
+  },
+  {
+    "id": 76,
+    "category": "necklaces",
+    "title": "Necklace - Celeste Spark Diamond Bar Necklace",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n6.jpg",
+    "description": "Graceful and dazzling, the Celeste Spark Necklace is a radiant blend of symmetry and sparkle. Crafted in white gold, this design features an elegant arrangement of round brilliant and baguette-cut diamonds, forming a modern bar silhouette with a rhythmic, cascading aesthetic. Perfectly suited for layering or worn solo as a refined statement, this necklace brings a fresh, cosmopolitan touch to your jewellery collection.",
+    "inStock": true,
+    "features": {
+      "metal": "Customizable",
+      "diamondCuts": "Round Brilliant & Baguette",
+      "design": "Bar style with alternating diamond cuts",
+      "look": "Sleek, sparkly, and ultra-modern",
+      "idealFor": "Everyday glam or evening elegance"
+    }
+  },
+  {
+    "id": 77,
+    "category": "rings",
+    "title": "Rings - Imperial Grid Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "18,667.94",
+    "originalPrice": "20,742.16",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r33.jpg",
+    "description": "Command attention with the Imperial Grid Diamond Ring from Maverick Jewels \u2014 a fusion of luxury and masculine design. Crafted in radiant 22K yellow gold, this masterpiece features a bold grid-patterned band and a perfectly aligned cluster of nine brilliant-cut diamonds. A true emblem of power, precision, and prestige, it's made for the man who leads with style.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable 22K yellow gold with solid and substantial feel for durability and comfort",
+      "edges": "Clean edges with an architectural, masculine finish",
+      "design": {
+        "shank": "Grid-textured shank with deep, clean-cut lines",
+        "structure": "Sleek and symmetrical structure for a bold yet refined look"
+      },
+      "diamondSetting": {
+        "layout": "9 round brilliant-cut diamonds arranged in a square 3x3 cluster layout",
+        "settingStyle": "Prong or pressure setting for enhanced sparkle and security",
+        "diamondWeight": "Approx. total diamond weight: ~0.75 carat (customizable)"
+      },
+      "finish": "High-gloss polish for a rich gold shine",
+      "designHighlights": [
+        "Masculine geometric grid structure",
+        "Compact cluster creates powerful visual focus",
+        "Bold gold body balanced with diamond brilliance"
+      ],
+      "styleCategory": "Statement ring / Signature men's ring / Occasion wear",
+      "idealFor": "Weddings, engagements, milestone gifts, or bold fashion wear"
+    }
+  },
+  {
+    "id": 78,
+    "category": "necklaces",
+    "title": "Pendant - Teardrop Elegance Diamond Pendant",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n25.jpg",
+    "description": "Delicate yet striking, the Teardrop Elegance Pendant captures timeless beauty in a graceful silhouette. Crafted in luxurious 18K yellow gold, the teardrop frame cradles a brilliant round-cut diamond, symbolizing clarity and grace. This minimalist masterpiece hangs effortlessly from a fine gold chain, making it a versatile everyday luxury or a refined gift of love.",
+    "inStock": true,
+    "features": {
+      "centerStone": "Round brilliant diamond",
+      "setting": "Sculpted teardrop bezel",
+      "metal": "Customizable",
+      "designStyle": "Modern minimalism with emotional charm",
+      "chain": "Lightweight gold cable chain",
+      "perfectFor": "Daily wear, gifts, timeless keepsakes"
+    }
+  },
+  {
+    "id": 79,
+    "category": "necklaces",
+    "title": "Necklace - Emerald Bloom Diamond Necklace",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n31.jpg",
+    "description": "Embrace delicate sophistication with the Emerald Bloom Diamond Necklace from Maverick Jewels. Designed to reflect nature's elegance, this V-shaped necklace features a graceful vine-inspired pattern made of fine diamonds, tapering symmetrically to a luminous centerpiece. A captivating oval-cut emerald sits at the heart of the design, embraced by intricate diamond loops that resemble blooming petals. The blend of white and gold tones in the setting adds depth and contrast, making this piece a radiant choice for elegant evenings or wedding occasions.",
+    "inStock": true,
+    "features": {
+      "design": "Nature-inspired floral and vine motif",
+      "stoneType": "Certified diamonds with an oval-cut natural emerald",
+      "baseMetal": "Dual-tone gold (white & yellow)",
+      "settingStyle": "Prong and pave set for enhanced brilliance",
+      "occasion": "Ideal for weddings, engagements, and festive gatherings",
+      "look": "Lightweight yet luxurious; perfect for statement elegance"
+    }
+  },
+  {
+    "id": 80,
+    "category": "necklaces",
+    "title": "Necklace - Ros\u00e9 Petal Diamond Necklace",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n12.jpg",
+    "description": "Soft, feminine, and irresistibly graceful \u2014 the Ros\u00e9 Petal Diamond Necklace by Maverick Jewels captures the poetic charm of blooming petals in a refined rose gold silhouette. Crafted with open floral motifs, each petal is delicately curved and accented with sparkling diamonds that glisten like morning dew. The necklace culminates in a teardrop-shaped pendant adorned with a petite floral element inside, adding a graceful touch of symmetry and movement. Lightweight yet dazzling, this design is perfect for those who adore minimal beauty with a hint of romance.",
+    "inStock": true,
+    "features": {
+      "designTheme": "Floral finesse in rose gold",
+      "metalFinish": "High-polish rose gold with diamond accents",
+      "pendantStyle": "Open teardrop with internal floral detail",
+      "stonesUsed": "Round-cut certified diamonds",
+      "occasion": "Perfect for weddings, engagements, and elegant soir\u00e9es",
+      "styleVibe": "Romantic, modern, and timelessly chic"
+    }
+  },
+  {
+    "id": 81,
+    "category": "earrings",
+    "title": "Earrings - Nova Abstract Drop Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e40.jpg",
+    "description": "The Nova Abstract Drop Earrings from Maverick Jewels redefine statement jewelry with a high-polish gold finish and an artfully fluid silhouette. The design features interlocked open shapes\u2014one glistening with pav\u00e9-set stones and the other forged in gleaming gold-tone metal\u2014creating a dynamic interplay of sparkle and structure.",
+    "inStock": true,
+    "features": {
+      "design": "Linked abstract drop earrings with fluid open-form styling",
+      "material": "Premium 18K gold-plated alloy (Customized available)",
+      "stones": "Upper link encrusted with pav\u00e9-set cubic zirconia for refined shimmer",
+      "finish": "Glossy, mirror-polished gold for maximum light reflection",
+      "closure": "Post-back closure for secure and comfortable wear",
+      "styleProfile": "Artistic, elegant, and contemporary statement",
+      "bestFor": "Luxe fashion styling, cocktail evenings, or gallery-chic looks"
+    }
+  },
+  {
+    "id": 82,
+    "category": "earrings",
+    "title": "Earrings - Whisper Leaf Stud Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e26.jpg",
+    "description": "Delicate and refined, the Whisper Leaf Stud Earrings by Maverick Jewels embody natural elegance with a contemporary twist. Featuring a graceful trio of marquise and pear-cut cubic zirconia stones arranged in a soft leaf-like cluster, these earrings add an understated sparkle perfect for both everyday wear and special occasions.",
+    "inStock": true,
+    "features": {
+      "design": "Trio-leaf inspired cluster with soft curves",
+      "material": "Rhodium-plated premium metal base (Customized available)",
+      "stones": "Handset high-clarity cubic zirconia",
+      "cut": "Combination of marquise and pear-shaped stones",
+      "fastening": "Secure and comfortable push-back closure",
+      "skinFriendly": "Hypoallergenic and nickel-free",
+      "occasion": "Versatile for casual elegance or formal charm"
+    }
+  },
+  {
+    "id": 83,
+    "category": "earrings",
+    "title": "Earrings - Luxe Leaf Cascade Diamond Drop Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e18.jpg",
+    "description": "Elevate your elegance with these ethereal Leaf Cascade Drop Earrings from Maverick Jewels. Designed to mirror the natural flow of leaves in a gentle breeze, this graceful piece captures sophistication and brilliance in every detail. Intricately curved vine design studded with marquise-cut and round brilliant diamonds, ending with a pear-shaped drop stone that adds movement and sparkle.",
+    "inStock": true,
+    "features": {
+      "design": "Curved vine with cascading leaf motif",
+      "stones": "High-clarity cubic zirconia or diamonds (variant based)",
+      "stoneCuts": "Marquise, round brilliant, and pear-shaped drop",
+      "finish": "Rhodium-plated or white gold base",
+      "closure": "Secure post-back or hidden latch",
+      "comfortFit": "Lightweight with an ergonomic curve",
+      "style": "Luxurious, nature-inspired, and graceful",
+      "occasion": "Weddings, receptions, parties, or red-carpet elegance"
+    }
+  },
+  {
+    "id": 84,
+    "category": "earrings",
+    "title": "Earrings - Crystal Bloom Drop Chain Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e12.jpg",
+    "description": "Unveil refined elegance with the Crystal Bloom Drop Chain Earrings, a perfect blend of floral charm and modern grace. This radiant design features a cluster of petal-shaped stones arranged like a blossoming flower, complemented by dual dainty chain drops, each ending in shimmering teardrop crystals. The asymmetrical chains add soft movement and a contemporary touch to this delicate piece.",
+    "inStock": true,
+    "features": {
+      "design": "Floral motif with dual hanging chain drops",
+      "stones": "Petal-shaped marquise crystals for the flower cluster; tiny teardrop-shaped crystals at the end of delicate chains",
+      "finish": "Mirror-polished rhodium plating for a high-luster shine",
+      "material": "Nickel-free, hypoallergenic alloy - skin-safe and lightweight",
+      "structure": "Ear-climber flower top hugs the earlobe; two fine chain strands of differing lengths enhance movement",
+      "dimensions": {
+        "flowerTopWidth": "Approx. 2 cm",
+        "chainDropLengths": "Approx. 2.5 cm and 4 cm"
+      },
+      "occasion": "Perfect for evening soir\u00e9es, romantic dinners, or bridal styling",
+      "packaging": "Arrives in an elegant Maverick Jewels velvet gift box",
+      "careTips": "Avoid water, perfumes, and store in a soft pouch to preserve brilliance"
+    }
+  },
+  {
+    "id": 85,
+    "category": "necklaces",
+    "title": "Pendant - Radiant Blossom Diamond Pendant",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n7.jpg",
+    "description": "Delicately crafted to resemble a blooming flower, the Radiant Blossom Pendant is a timeless celebration of elegance and luminosity. At the heart of this stunning piece lies a brilliant-cut solitaire diamond, encircled by a floral halo of sparkling pave-set diamonds, creating the illusion of a radiant sunflower. Set in luxurious yellow gold, this pendant captures both nature's grace and regal brilliance, making it a perfect statement of refined femininity.",
+    "inStock": true,
+    "features": {
+      "centerStone": "Round brilliant solitaire diamond",
+      "halo": "Floral design with pave diamonds",
+      "metal": "Customizable",
+      "designStyle": "Nature-inspired, elegant, timeless",
+      "occasion": "Perfect for weddings, gifting, or heirloom-worthy keepsake"
+    }
+  },
+  {
+    "id": 86,
+    "category": "earrings",
+    "title": "Earrings - Crystal Vine Drop Ear Climber",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e11.jpg",
+    "description": "Elevate your look with the enchanting Crystal Vine Drop Ear Climber, a sophisticated statement piece inspired by nature\u2019s graceful curves. Featuring a vine-like formation of shimmering marquise-cut stones and delicate teardrop crystals, it adds luxurious sparkle and flowing elegance.",
+    "inStock": true,
+    "features": {
+      "design": "Nature-inspired vine ear climber with dual crystal drop dangles",
+      "stones": "Marquise-cut cubic zirconia (vine) and teardrop-cut crystals (drops)",
+      "finish": "High-polish rhodium or rose gold plating (customizable)",
+      "material": "Hypoallergenic alloy base for sensitive ears",
+      "style": "Ear climber with secure stud post and support",
+      "dimensions": {
+        "vineLength": "Approx. 3 cm",
+        "dropLength": "Approx. 1.5 cm"
+      },
+      "occasion": "Evening events, weddings, festive looks, or statement styling",
+      "packaging": "Presented in Maverick Jewels premium keepsake box",
+      "care": "Store in dry space, avoid contact with moisture and perfumes"
+    }
+  },
+  {
+    "id": 87,
+    "category": "bracelets",
+    "title": "Bracelets - Radiant Diamond Eternity Gold Bangle",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b22.jpg",
+    "description": "Step into elegance with this breathtaking Diamond Eternity Bangle from Maverick Jewels. A perfect harmony of sophistication and brilliance, this bangle is crafted in luminous yellow gold and adorned with a continuous row of meticulously set round brilliant-cut diamonds. The delicate inner gallery showcases intricate craftsmanship, adding depth and charm to its sleek, timeless profile. Ideal for stacking or making a solo statement, it\u2019s a luxurious essential for every jewelry collection.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "designName": "Diamond Eternity Bangle",
+      "diamondSetting": "Full-round brilliant-cut diamonds in micro pav\u00e9 setting",
+      "diamondQuality": "VVS-VS clarity, F-G color (custom options available)",
+      "finish": "High-polish with fine milgrain detailing for a vintage touch",
+      "innerDesign": "Precision-cut, open gallery work for light reflection and comfort",
+      "sizeOptions": "Available in multiple sizes for a perfect fit",
+      "style": "Elegant and stackable \u2013 perfect for both formal and casual wear",
+      "occasions": [
+        "Weddings",
+        "Anniversaries",
+        "Festive wear",
+        "Gifting"
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "category": "necklaces",
+    "title": "Necklace - Enchanted Emerald Garden Necklace",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n30.jpg",
+    "description": "Step into a realm of natural beauty with the Enchanted Emerald Garden Necklace from Maverick Jewels. This floral-inspired masterpiece is a celebration of artistry and grace, featuring a stunning arrangement of deep green emeralds and radiant diamonds shaped like delicate petals and blossoms. Every curve of the necklace mimics the elegance of a blooming garden, with intricately set stones forming vines and flowers. The centerpiece cascades into a graceful drop, creating a romantic and timeless silhouette that effortlessly complements traditional and contemporary attire.",
+    "inStock": true,
+    "features": {
+      "designTheme": "Floral garden with emerald vines",
+      "stonesUsed": "Natural pear-cut emeralds & certified brilliant diamonds",
+      "metalFinish": "High-polish gold with rhodium accents",
+      "craftsmanship": "Handcrafted with intricate floral detailing",
+      "occasion": "Ideal for weddings, bridal events, and festive occasions",
+      "style": "Ethereal, feminine, and regal"
+    }
+  },
+  {
+    "id": 89,
+    "category": "earrings",
+    "title": "Earrings - Rose And Yellow Gold Diamond Stud Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e2.jpg",
+    "description": "Add timeless sophistication to your jewelry collection with these stunning Rose and Yellow Gold Diamond Stud Earrings from Maverick Jewels. Each piece is masterfully crafted in lustrous 14K/18K rose and yellow gold, featuring a brilliant round-cut diamond secured in a classic six-prong setting. The refined screw-back design provides added comfort and safety, making them a versatile choice for both everyday elegance and special occasions.",
+    "inStock": true,
+    "features": {
+      "diamondType": "Natural or lab-grown round brilliant-cut diamond",
+      "metal": "Customized 14K/18K rose and yellow gold",
+      "setting": "Six-prong secure setting for maximum brilliance and safety",
+      "closure": "Screw-back posts for secure, comfortable wear",
+      "finish": "High-polish rose and yellow gold for a warm, luxurious glow",
+      "diamondSizeRange": "0.25ct to 2.0ct per earring (customizable)",
+      "durability": "Ideal for daily wear with strong prong and threaded post construction",
+      "packaging": "Comes in a premium Maverick Jewels gift box",
+      "occasion": "Perfect for anniversaries, birthdays, engagements, or everyday luxury",
+      "certification": "Diamonds available with IGI/GIA certification on request"
+    }
+  },
+  {
+    "id": 90,
+    "category": "earrings",
+    "title": "Earrings - Rose And Yellow Gold Diamond Stud Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e1.jpg",
+    "description": "Add timeless sophistication to your jewelry collection with these stunning Rose and Yellow Gold Diamond Stud Earrings from Maverick Jewels. Crafted in lustrous 14K/18K rose and yellow gold, these studs feature a brilliant round-cut diamond in a classic six-prong setting, ideal for both everyday elegance and special occasions.",
+    "inStock": true,
+    "features": {
+      "diamondType": "Natural or lab-grown round brilliant-cut diamond",
+      "metal": "Customized 14K/18K rose and yellow gold",
+      "setting": "Six-prong secure setting for maximum brilliance and safety",
+      "closure": "Screw-back posts for secure, comfortable wear",
+      "finish": "High-polish rose and yellow gold for a warm, luxurious glow",
+      "diamondSizeRange": "0.25ct to 2.0ct per earring (customizable)",
+      "durability": "Ideal for daily wear with strong prong and threaded post construction",
+      "packaging": "Comes in a premium Maverick Jewels gift box",
+      "occasion": "Perfect for anniversaries, birthdays, engagements, or everyday luxury",
+      "certification": "Diamonds available with IGI/GIA certification on request"
+    }
+  },
+  {
+    "id": 91,
+    "category": "earrings",
+    "title": "Earrings - Classic Floral Diamond Stud Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e17.jpg",
+    "description": "Delicate, radiant, and timeless\u2014these floral-inspired earrings from Maverick Jewels offer a charming blend of simplicity and sophistication. A perfect companion for both everyday wear and graceful occasions. Shaped like a blooming five-petal flower, each petal is set with a pear-shaped clear stone, converging at a central round diamond-like gem. The petals are symmetrically aligned, capturing light from every angle and creating a soft sparkle that enhances natural beauty.",
+    "inStock": true,
+    "features": {
+      "design": "Five-petal flower motif with teardrop stones",
+      "stoneCut": "Pear-cut petals + round center stone",
+      "material": "White gold-plated or rhodium-polished alloy (Customized available)",
+      "setting": "Prong-set stones for maximum brilliance",
+      "fit": "Comfortable and secure stud backing",
+      "hypoallergenic": "Nickel- and lead-free, skin-safe",
+      "style": "Timeless, dainty, and versatile",
+      "occasions": "Ideal for gifting, daily wear, brunches, or formal events"
+    }
+  },
+  {
+    "id": 93,
+    "category": "earrings",
+    "title": "Earrings - Rose Radiance Dual-Hoop Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e37.jpg",
+    "description": "Gracefully curved and brilliantly adorned, the Rose Radiance Dual-Hoop Earrings from Maverick Jewels combine artistic flair with modern luxury. These sculptural earrings feature a double crossover hoop design in polished rose gold, delicately lined with shimmering cubic zirconia for a refined sparkle.",
+    "inStock": true,
+    "features": {
+      "design": "Crossover double hoop with contemporary flair",
+      "material": "Glossy rose gold-toned finish (customizable)",
+      "gemstones": "Pave-set cubic zirconia for subtle yet captivating brilliance",
+      "shape": "Slightly oval with soft curves for a flattering profile",
+      "closure": "Secure hinged clip-back fastening",
+      "styleVibe": "Elegant, versatile, and suitable for both day and evening wear",
+      "size": "Medium-sized with a bold yet wearable silhouette"
+    }
+  },
+  {
+    "id": 95,
+    "category": "earrings",
+    "title": "Earrings - Radiant Swirl Hoop Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e39.jpg",
+    "description": "Step into timeless glamour with the Radiant Swirl Hoop Earrings from Maverick Jewels. These bold circular hoops boast a luxurious gold finish, intricately sculpted with dynamic swirl patterns and encrusted with brilliant pav\u00e9-set cubic zirconia. The swirling design gives the illusion of motion and depth, making them a captivating statement piece for any occasion.",
+    "inStock": true,
+    "features": {
+      "design": "Elegant round hoop with dynamic swirl detailing",
+      "material": "High-polish yellow gold-tone metal (customizable)",
+      "gemstones": "Multiple rows of shimmering cubic zirconia in swirl pattern",
+      "texture": "Raised layered channels create dimensional elegance",
+      "closure": "Secure latch-back clasp for easy wear and comfort",
+      "size": "Bold and impactful yet balanced for daily or evening wear",
+      "styleNote": "A sophisticated blend of classic hoop and contemporary artistry"
+    }
+  },
+  {
+    "id": 96,
+    "category": "bracelets",
+    "title": "Bracelets - Luxe Heritage Dual Bracelet Set",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b34.jpg",
+    "description": "Celebrate opulence with the Luxe Heritage Dual Bracelet Set by Maverick Jewels \u2014 a breathtaking fusion of timeless grandeur and contemporary flair. This exquisite set features two complementary bracelets: one with intricately framed square motifs encrusted in golden halos and surrounded by white zirconia, and the other a classic single-row tennis bracelet sparkling with brilliant round-cut stones.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "design": [
+        "Vintage-inspired square motifs with pav\u00e9-set centers",
+        "Elegant round-cut CZ tennis design"
+      ],
+      "stones": [
+        "Premium cubic zirconia in round and princess cuts"
+      ],
+      "finish": "High-gloss polish for radiant shine",
+      "clasp": "Secure box clasps with safety latch on both pieces",
+      "style": "Ideal for weddings, festive occasions, or statement luxury wear",
+      "comfort": [
+        "Lightweight",
+        "Nickel-free",
+        "Hypoallergenic for all-day wear"
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "category": "necklaces",
+    "title": "Pendant - Classic Solitaire Diamond Pendant",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n22.jpg",
+    "description": "A timeless essential, the Classic Solitaire Diamond Pendant is elegance in its purest form. Featuring a brilliant round-cut diamond delicately suspended from a sleek 14K yellow gold bail, this design speaks volumes with minimalism.",
+    "inStock": true,
+    "features": {
+      "metal": "Customizable",
+      "diamond": "Round brilliant-cut solitaire",
+      "design": "Floating pendant on a fine chain",
+      "vibe": "Graceful, everyday luxury",
+      "perfectFor": "Daily wear or signature layering"
+    }
+  },
+  {
+    "id": 99,
+    "category": "necklaces",
+    "title": "Necklace - Midnight Majesty Necklace",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n19.jpg",
+    "description": "Step into elegance with the Midnight Majesty Necklace \u2013 a captivating fusion of vintage charm and modern finesse. This masterpiece from Maverick Jewels is crafted in luxurious rose gold, featuring an enchanting chain of alternating open-link motifs encrusted with shimmering diamonds. At the heart lies a dramatic deep blue sapphire-hued gemstone in an emerald cut, surrounded by a halo of brilliant white stones, cascading from a delicately designed diamond cluster. Its symmetrical composition and regal tones make it the perfect accent for evening glamour or ceremonial grace.",
+    "inStock": true,
+    "features": {
+      "gemstone": "Deep blue sapphire-hued center stone",
+      "design": "Diamond-studded geometric chain with central drop pendant",
+      "metal": "Rose gold with white diamond highlights",
+      "style": "Modern royalty meets timeless sophistication",
+      "idealFor": "Evening soir\u00e9es, weddings, anniversaries, and upscale events"
+    }
+  },
+  {
+    "id": 100,
+    "category": "earrings",
+    "title": "Earrings - Aurelia Pav\u00e9 Teardrop Hoop Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e34.jpg",
+    "description": "Gracefully radiant and irresistibly modern, the Aurelia Pav\u00e9 Teardrop Hoop Earrings by Maverick Jewels make a powerful statement of refined opulence. Crafted in luminous gold-tone metal, each earring showcases a sleek, sculpted curve encrusted with rows of pav\u00e9-set cubic zirconia. At the base, a pear-cut teardrop stone adds depth and sophistication\u2014capturing the light with every subtle movement.",
+    "inStock": true,
+    "features": {
+      "design": "Modern hoop with pav\u00e9 detailing and teardrop stone base",
+      "material": "18K gold-plated alloy for a rich, lasting finish (Customized available)",
+      "stones": "Triple-row pav\u00e9 cubic zirconia + center pear-cut teardrop accents",
+      "closure": "Hinged snap-back clasp for secure and seamless wear",
+      "finish": "High-polish with flawless stone alignment",
+      "hypoallergenic": "Nickel-free and safe for sensitive ears",
+      "styleUse": "Glamorous eveningwear, bridal, or luxe occasion wear"
+    }
+  },
+  {
+    "id": 101,
+    "category": "earrings",
+    "title": "Earrings - Radiant Flame Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e45.jpg",
+    "description": "Ignite your elegance with the Radiant Flame Earrings by Maverick Jewels. Designed to resemble flickering flames or flowing ribbons, these earrings exude graceful movement and brilliance. Crafted in luminous gold-tone alloy, the layered design features openwork curves accented by rows of sparkling cubic zirconia for a captivating finish.",
+    "inStock": true,
+    "features": {
+      "design": "Flame-inspired silhouette with intertwining wave-like strands",
+      "finish": "High-polish gold plating for rich warmth and durability",
+      "stones": "Brilliant-cut cubic zirconia in precision pav\u00e9 setting",
+      "structure": "Lightweight with a curved contour for a snug, ear-hugging fit",
+      "closure": "Lever-back clasp for secure and comfortable wear",
+      "occasion": "Weddings, formal soir\u00e9es, festive occasions, or statement gifting"
+    }
+  },
+  {
+    "id": 102,
+    "category": "rings",
+    "title": "Rings - Regal Grid Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "36,907.29",
+    "originalPrice": "49,209.72",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r38.jpg",
+    "description": "Make an unforgettable impression with the Regal Grid Diamond Ring from Maverick Jewels. Designed for the modern gentleman who values elegance with an edge, this ring combines bold structure with refined luxury. Crafted in rich yellow gold, it features a distinctive grid-patterned shank and a stunning 3x3 cluster of brilliant-cut diamonds that exude power and prestige.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "designElements": {
+        "band": "Wide, textured band with a geometric grid finish for a bold and structured aesthetic",
+        "fit": "Flat-top surface ensures a comfortable, secure fit"
+      },
+      "diamondSetting": {
+        "layout": "9 round-cut diamonds in a symmetric 3x3 cluster",
+        "diamondWeight": "Approx. total diamond weight: ~0.75 carat (customizable)",
+        "setting": "Secure prong or invisible setting for a seamless sparkle"
+      },
+      "finish": "High-polish gold with fine detailing on the edges",
+      "styleCategory": "Statement ring / Cocktail ring / Men's fashion ring",
+      "idealFor": "Engagements, anniversaries, milestone celebrations, or luxury everyday wear"
+    }
+  },
+  {
+    "id": 103,
+    "category": "necklaces",
+    "title": "Necklace - Midnight Majesty Diamond Necklace",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n21.jpg",
+    "description": "Bold, geometric, and timeless \u2014 the Midnight Majesty Diamond Necklace from Maverick Jewels is a statement of modern luxury. Featuring a unique series of square motifs outlined with precision-set diamonds, this design embraces structured elegance. At the heart of the necklace are three captivating trapezoid-cut deep blue sapphires, set in a pyramid-style drop that radiates power and poise. Surrounding the sapphires, brilliant-cut diamonds enhance the rich hue, creating a contrast that\u2019s both eye-catching and refined.",
+    "inStock": true,
+    "features": {
+      "designTheme": "Art Deco-inspired geometry",
+      "stoneType": "Trapezoid-cut blue sapphires with certified diamonds",
+      "baseMetal": "Gold base with white rhodium finish",
+      "settingStyle": "Micro-pave and bezel setting",
+      "lookAndFeel": "Bold elegance with a modern edge",
+      "occasion": "Cocktail events | Grand evenings | Modern bridal wear"
+    }
+  },
+  {
+    "id": 104,
+    "category": "rings",
+    "title": "Rings - Titan Link Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "34,876.83",
+    "originalPrice": "43,596.04",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r41.jpg",
+    "description": "Architectural excellence meets dazzling craftsmanship in the Titan Link Diamond Ring by Maverick Jewels. This standout piece features a bold dual-tone gold structure with geometric cutouts and a signature link-inspired design. The crown is encrusted with a sparkling row of round-cut diamonds, making it a modern masterpiece for the man who thrives on detail and dominance.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable dual-tone gold, lightweight yet strong",
+      "edges": "Fine detailing throughout the band and inner rim for comfort",
+      "diamondArrangement": {
+        "layout": "Rectangular diamond cluster with approx. 10 round-cut stones",
+        "setting": "Precision prong-set for brilliance and durability",
+        "diamondWeight": "Estimated diamond weight: ~0.60 \u2013 0.75 carat (customizable)"
+      },
+      "designHighlights": [
+        "Unique link-style shank with grid-style cutouts and gold connector accents",
+        "Elevated diamond panel sits securely atop the band for prominence",
+        "Fusion of modern mechanics and traditional luxury"
+      ],
+      "finish": "High-polish yellow gold with brushed white gold contrast",
+      "styleCategory": "Luxury men's designer ring / Occasion ring / Contemporary statement ring"
+    }
+  },
+  {
+    "id": 105,
+    "category": "necklaces",
+    "title": "Necklace Set - Emerald Elegance Diamond Necklace Set",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n27.jpg",
+    "description": "Unveil a symphony of sparkle and sophistication with the Emerald Elegance Diamond Necklace Set by Maverick Jewels. This captivating set includes a delicately crafted necklace and matching earrings, both adorned with a graceful pattern of shimmering marquise and round-cut diamonds. At the center of this elegant V-shaped design hang radiant emerald-cut green stones, framed by fine diamonds, delivering a perfect balance of bold color and refined shimmer. The earrings mirror the necklace\u2019s drop design, featuring a floral diamond motif that flows into a dazzling emerald pendant \u2014 creating a cohesive look of harmony and opulence.",
+    "inStock": true,
+    "features": {
+      "setIncludes": "Necklace + Matching Earrings",
+      "stonesUsed": "Certified diamonds and natural emeralds",
+      "designStyle": "Floral vines with twin emerald drops",
+      "stoneShapes": "Emerald-cut green stones, marquise and round diamonds",
+      "baseMetal": "Yellow gold with white rhodium finish",
+      "occasion": "Bridal | Festive | High-End Celebrations",
+      "vibe": "Classic floral glamour with a touch of royalty"
+    }
+  },
+  {
+    "id": 107,
+    "category": "earrings",
+    "title": "Earrings - Crystal Dewdrop Cluster Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e25.jpg",
+    "description": "Inspired by the purity of morning dew on delicate petals, the Crystal Dewdrop Cluster Earrings from Maverick Jewels combine timeless simplicity with refined brilliance. This elegant trio features pear-cut stones arranged in a gentle cascade, evoking a soft leaf or droplet shape\u2014perfect for those who seek graceful sophistication in every detail.",
+    "inStock": true,
+    "features": {
+      "design": "Three-stone cluster in a dewdrop/leaf-like formation",
+      "material": "High-quality rhodium-plated alloy (Customized available)",
+      "stones": "Sparkling pear-cut cubic zirconia",
+      "finish": "Mirror-polished for lasting shine",
+      "closure": "Secure push-back closure for all-day comfort",
+      "hypoallergenic": "Nickel-free and skin-safe",
+      "idealFor": "Daily elegance, bridal wear, and minimal chic occasions"
+    }
+  },
+  {
+    "id": 108,
+    "category": "bracelets",
+    "title": "Bracelets - Elegant Rose Gold Mesh Bracelet",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b32.jpg",
+    "description": "Elevate your style with the signature sophistication of Maverick Jewels. This elegant rose gold mesh bracelet is a perfect blend of modern charm and timeless beauty. Crafted with precision, the bracelet features a flexible mesh band, elegantly adorned with four round motifs encrusted with dazzling cubic zirconia stones that shimmer with every movement.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "design": "Sleek mesh chain with 4 intricately set zirconia-studded round charms",
+      "clasp": "Secure and comfortable fold-over clasp",
+      "finish": "High-polish surface for a radiant shine",
+      "style": "Suitable for both daily wear and special occasions",
+      "comfort": "Hypoallergenic, nickel-free, and gentle on skin"
+    }
+  },
+  {
+    "id": 109,
+    "category": "necklaces",
+    "title": "Necklace - Regal Emerald Drop Necklace",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n3.jpg",
+    "description": "A timeless blend of tradition and sophistication, the Regal Emerald Drop Necklace by Maverick Jewels is designed to elevate every special moment. Featuring a striking arrangement of round and pear-shaped diamond elements along the chain, the design gracefully leads to an opulent centerpiece. The focal point showcases a bold square-cut emerald, accented by two emerald pear drops and a grand tear-shaped pendant with clustered green stones framed in shimmering diamonds. Intricate filigree-style patterns and fine craftsmanship give this necklace an heirloom-worthy appeal.",
+    "inStock": true,
+    "features": {
+      "stoneType": "Certified diamonds & square-cut natural emeralds",
+      "designTheme": "Classic royal with modern filigree artistry",
+      "metalFinish": "Yellow gold base with white rhodium detailing",
+      "settingStyle": "Prong and bezel set for secure brilliance",
+      "occasion": "Perfect for weddings, receptions, and festive ceremonies",
+      "vibe": "Heritage-inspired with a graceful modern touch"
+    }
+  },
+  {
+    "id": 110,
+    "category": "earrings",
+    "title": "Earrings - Seraphine Rose Wave Hoop Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e35.jpg",
+    "description": "Celebrate fluidity and brilliance with the Seraphine Rose Wave Hoop Earrings from Maverick Jewels. Designed with a graceful sweeping curve, these sculpted hoops feature triple rows of dazzling pave-set cubic zirconia that shimmer like flowing light. Set in a warm rose gold frame, their open-back design adds a lightweight feel and contemporary sophistication.",
+    "inStock": true,
+    "features": {
+      "design": "Sculpted wave-style hoops with a modern open framework",
+      "material": "Luxurious rose gold-plated alloy (Customized available)",
+      "stones": "Three rows of precision-set round-cut cubic zirconia",
+      "finish": "Glossy, mirror-like polish with structured detail",
+      "closure": "Snap-lock hinge for ease and security",
+      "comfort": "Lightweight, breathable design for all-day wear",
+      "hypoallergenic": "Nickel-free and safe for sensitive ears",
+      "perfectFor": "Elegant evenings, cocktail attire, or elevating everyday looks"
+    }
+  },
+  {
+    "id": 111,
+    "category": "bracelets",
+    "title": "Bracelets - Elegant Infinity Loop Diamond Bangle",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b40.jpg",
+    "description": "Grace your wrist with the refined charm of this Elegant Infinity Loop Diamond Bangle by Maverick Jewels. Designed for the modern muse, this bangle is a perfect blend of minimal elegance and symbolic sophistication. Crafted in radiant Rose and yellow gold, the bangle features a captivating series of infinity loop motifs adorned with shimmering pav\u00e9-set diamonds, symbolizing eternal love and elegance.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "designMotif": "Infinity loop pattern symbolizing timelessness and harmony",
+      "diamondDetailing": "Micro pav\u00e9-set round brilliant-cut diamonds with delicate sparkle that enhances the central pattern",
+      "style": "Open-top slender bangle with secure clasp for a snug fit",
+      "finish": "Polished to a mirror-like sheen for maximum brilliance",
+      "occasion": "Ideal for everyday elegance, gifting, and special moments"
+    }
+  },
+  {
+    "id": 112,
+    "category": "earrings",
+    "title": "Earrings - Twisted Elegance Rose Gold Hoop Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e30.jpg",
+    "description": "Sculpted to perfection, the Twisted Elegance Hoop Earrings from Maverick Jewels capture the essence of modern glamour. Featuring a graceful intertwining design, these hoops are plated in luxurious rose gold and encrusted with two shimmering rows of round-cut cubic zirconia that spiral gently around the hoop. The result: a look that\u2019s both timeless and striking.",
+    "inStock": true,
+    "features": {
+      "design": "Twisted spiral hoop with dual pav\u00e9 crystal rows",
+      "material": "Rose gold-plated alloy for a soft, glowing finish (Customized available)",
+      "stones": "Precision-set round-cut cubic zirconia",
+      "closure": "Hinged snap clasp for secure wear and ease of use",
+      "finish": "High-polish with brilliant sparkle from every angle",
+      "skinFriendly": "Hypoallergenic and nickel-free",
+      "occasion": "Ideal for formal evenings, festive celebrations, or a luxurious everyday statement"
+    }
+  },
+  {
+    "id": 113,
+    "category": "earrings",
+    "title": "Earrings - Celestia Wave Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e44.jpg",
+    "description": "Dramatic yet refined, the Celestia Wave Earrings from Maverick Jewels capture the essence of luxury with a free-flowing design that mimics celestial currents. Crafted in a radiant rose-gold tone, each earring is composed of fluid, wave-like curves encrusted with high-shine cubic zirconia stones that shimmer with every turn.",
+    "inStock": true,
+    "features": {
+      "design": "Swirling openwave structure with layered arc elements",
+      "material": "Rose gold-plated alloy with anti-tarnish finish (Customized available)",
+      "stones": "Precision-cut clear cubic zirconia in micro-pav\u00e9 setting",
+      "closure": "Secure omega clip clasp for comfort and hold",
+      "styleStatement": "Bold yet graceful\u2014ideal for evening elegance or bridal sparkle",
+      "occasion": "Wedding, reception, cocktail parties, gala events"
+    }
+  },
+  {
+    "id": 114,
+    "category": "necklaces",
+    "title": "Necklace - Cascading Brilliance Diamond Necklace",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n2.jpg",
+    "description": "Delicately crafted in yellow gold, the Cascading Brilliance Necklace features a graceful arc of graduated round-cut diamonds, artfully arranged to form a gentle curve that mirrors your natural neckline. Each diamond sparkles with timeless elegance, transitioning smoothly from petite to prominent, creating a soft, radiant flow.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "diamonds": "Graduated round brilliant cuts",
+      "design": "Curved bar pendant with dainty gold chain",
+      "lookAndFeel": "Delicate, graceful, and endlessly versatile",
+      "perfectFor": "Everyday luxury or a layered sparkle statement"
+    }
+  },
+  {
+    "id": 115,
+    "category": "necklaces",
+    "title": "Pendant - Radiant Geometric Solitaire Pendant",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/necklaces/n20.jpg",
+    "description": "A bold reimagining of classic elegance, the Radiant Geometric Pendant is where architectural symmetry meets fine craftsmanship. Set in gleaming yellow gold, this design features a dazzling round brilliant-cut diamond nestled within a structured geometric frame\u2013reminiscent of origami folds or a blooming star. This pendant offers a modern statement while keeping timeless charm intact, making it perfect for the woman who blends strength with grace.",
+    "inStock": true,
+    "features": {
+      "centerStone": "Round brilliant solitaire diamond",
+      "settingStyle": "Geometric four-prong with sculpted gold accents",
+      "metal": "Customizable",
+      "designAesthetic": "Minimalist architecture meets luxury",
+      "chain": "Fine gold link chain",
+      "idealFor": "Gifting, layering, daily sophistication"
+    }
+  },
+  {
+    "id": 117,
+    "category": "earrings",
+    "title": "Earrings - Rose And Yellow Gold Diamond Stud Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e3.jpg",
+    "description": "Add timeless sophistication to your jewelry collection with these stunning Rose and Yellow Gold Diamond Stud Earrings from Maverick Jewels. Each piece is masterfully crafted in lustrous 14K/18K rose and yellow gold, featuring a brilliant round-cut diamond secured in a classic six-prong setting. The refined screw-back design provides added comfort and safety, making them a versatile choice for both everyday elegance and special occasions.",
+    "inStock": true,
+    "features": {
+      "diamondType": "Natural or lab-grown round brilliant-cut diamond",
+      "metal": "Customized 14K/18K rose and yellow gold",
+      "setting": "Six-prong secure setting for maximum brilliance and safety",
+      "closure": "Screw-back posts for secure, comfortable wear",
+      "finish": "High-polish rose and yellow gold for a warm, luxurious glow",
+      "diamondSizeRange": "0.25ct to 2.0ct per earring (customizable)",
+      "durability": "Ideal for daily wear with strong prong and threaded post construction",
+      "packaging": "Comes in a premium Maverick Jewels gift box",
+      "occasion": "Perfect for anniversaries, birthdays, engagements, or everyday luxury",
+      "certification": "Diamonds available with IGI/GIA certification on request"
+    }
+  },
+  {
+    "id": 118,
+    "category": "rings",
+    "title": "Rings - Legacy Crest Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "33,957.19",
+    "originalPrice": "39,949.63",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r15.jpg",
+    "description": "Embodying prestige and poise, the Legacy Crest Diamond Ring by Maverick Jewels commands attention with its geometric brilliance and luxurious design. At the center lies a square pav\u00e9-set diamond panel, framed by dynamic V-cut shoulders adorned with diamond arcs. Crafted in lustrous yellow gold with white gold accents, this ring is a regal expression of confidence and success.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable, BIS-hallmarked for certified gold purity",
+      "edges": "Smooth inner band for ergonomic wear",
+      "diamondConfiguration": {
+        "centerPanel": "Central square pav\u00e9 block featuring 25+ round-cut diamonds",
+        "shoulders": "Diamond-studded shoulders forming elegant arcs",
+        "diamondWeight": "Approx. total diamond weight: 1.00 \u2013 1.25 carats (customizable)"
+      },
+      "designElements": {
+        "crown": "Bold rectangular crown with multi-stone brilliance",
+        "structure": "V-shaped openwork beneath the shoulders adds structural finesse",
+        "shank": "Thick, tapered shank for durability and masculine elegance"
+      },
+      "finish": "Polished high-shine surface with diamond-reflective settings",
+      "designHighlights": [
+        "Geometric center design with layered detailing",
+        "Contrasting white and yellow gold tones for luxury effect",
+        "Ideal for high-end fashion and special occasions"
+      ],
+      "styleCategory": "High-luxury statement ring / Special occasion / Signature men's jewelry"
+    }
+  },
+  {
+    "id": 119,
+    "category": "earrings",
+    "title": "Earrings - Aurora Loop Drop Earrings",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/earrings/e32.jpg",
+    "description": "Grace meets geometry in the Aurora Loop Drop Earrings from Maverick Jewels. These elongated oval-shaped hoops are a modern marvel, featuring a sleek rose gold finish accented by a delicate trail of pav\u00e9-set crystals along one edge. The centerpiece\u2014a twin marquise-cut stone cluster resembling delicate wings or petals\u2014adds a whimsical, airy charm to this contemporary silhouette.",
+    "inStock": true,
+    "features": {
+      "design": "Elongated oval hoop with asymmetrical marquise-stone accent",
+      "material": "Premium rose gold plating (Customized available)",
+      "stones": "Pav\u00e9-set cubic zirconia + twin marquise-cut accent stones",
+      "closure": "Secure hinged clasp for comfortable wear",
+      "finish": "High-gloss polish with detailed micro-setting",
+      "hypoallergenic": "Nickel-free and skin-friendly",
+      "perfectFor": "Contemporary brides, elegant soirees, or signature daily style"
+    }
+  },
+  {
+    "id": 120,
+    "category": "rings",
+    "title": "Rings - Monarch Grid Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "39,455.25",
+    "originalPrice": "43,839.17",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r14.jpg",
+    "description": "Bold in form and futuristic in design, the Monarch Grid Diamond Ring is a statement of structure, power, and modern artistry. Crafted in dual-tone gold, it features a geometric, open-link shank design with a central rectangular bed of brilliant round-cut diamonds. It merges traditional opulence with architectural edge \u2013 perfect for men who lead with both elegance and innovation.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable, hallmarked for purity and long-lasting luster",
+      "edges": "Smooth inner band for comfortable all-day wear",
+      "diamondDetails": {
+        "layout": "Central rectangular cluster with 12+ round-cut diamonds",
+        "setting": "Precision pav\u00e9 setting for seamless brilliance",
+        "diamondWeight": "Estimated total diamond weight: 0.60 \u2013 0.75 carats (customizable)"
+      },
+      "designElements": {
+        "shank": "Unique open-grid shank inspired by mechanical symmetry",
+        "crown": "Raised diamond panel for dimensional elegance",
+        "sideMotifs": "Architectural side motifs resembling a link or hinge structure"
+      },
+      "finish": "High-polish yellow gold with matte white rhodium contrasts",
+      "designHighlights": [
+        "Fusion of modern mechanics with regal diamond arrangement",
+        "Structured yet elegant silhouette",
+        "Perfect for luxury casual wear or bold formal styling"
+      ],
+      "styleCategory": "Designer men's ring / Statement accessory / Luxury casual wear"
+    }
+  },
+  {
+    "id": 122,
+    "category": "rings",
+    "title": "Rings - Apex Cluster Dual Tone Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "12,832.56",
+    "originalPrice": "15,097.13",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r44.jpg",
+    "description": "Command attention with the Apex Cluster Dual Tone Ring by Maverick Jewels \u2014 a striking fusion of form, strength, and brilliance. This bold design features a wide band crafted in polished white gold, accentuated with elegant yellow gold inlays. At the crown, a powerful cluster of round-cut diamonds radiates confidence and luxury, making it a true showstopper for the modern man.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable, durable, hypoallergenic, and high-luster finish",
+      "edges": "Smooth interior band for comfort and all-day wearability",
+      "diamondSetting": {
+        "layout": "10 round brilliant-cut diamonds arranged in an elevated cluster",
+        "settingStyle": "Claw prong setting ensures maximum light return and durability",
+        "diamondWeight": "Approx. total diamond weight: ~0.90 \u2013 1.10 carats (customizable)"
+      },
+      "designHighlights": [
+        "Three-row split shank design with yellow gold stripes",
+        "Raised central platform for a bold, dimensional look",
+        "Strong visual symmetry and architectural finesse"
+      ],
+      "finish": "High-polish white gold body with glossy yellow accents",
+      "styleCategory": "Statement ring / Luxury men's cocktail ring / High-end gift piece"
+    }
+  },
+  {
+    "id": 123,
+    "category": "bracelets",
+    "title": "Bracelets - Trinity Butterfly Diamond Cuff Bracelet",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b6.jpg",
+    "description": "Celebrate elegance and transformation with the Trinity Butterfly Diamond Cuff Bracelet by Maverick Jewels. This luxurious cuff bracelet features a captivating arrangement of five butterfly motifs, crafted in a harmonious blend of yellow gold, white gold, and rose gold. Each butterfly is intricately encrusted with brilliant-cut diamonds, radiating sparkle from every angle. The open cuff design is structured with four parallel rows, each adorned with dazzling diamonds, creating a perfect balance of modern design and timeless beauty.",
+    "inStock": true,
+    "features": {
+      "designName": "Trinity Butterfly Diamond Cuff Bracelet",
+      "material": "Customizable Yellow Gold base with White Gold & Rose Gold accents",
+      "diamondType": "Round brilliant-cut diamonds (micro-pav\u00e9 setting)",
+      "motifs": "5 butterfly motifs in tri-tone gold (Yellow, White & Rose)",
+      "structure": "Open cuff with four sleek, diamond-studded rows",
+      "finish": "High-polish surface with precise stone placement for maximum brilliance",
+      "style": "Elegant statement jewelry suitable for both grand occasions and luxury fashion wear",
+      "fit": "Open cuff design for adjustable and comfortable fit"
+    }
+  },
+  {
+    "id": 124,
+    "category": "bracelets",
+    "title": "Bracelets - Eternal Spark Diamond Bangle",
+    "brand": "Maverick Jewels",
+    "price": "Customizable",
+    "originalPrice": "",
+    "discount": "",
+    "imageFront": "images/bracelets/b1.jpg",
+    "description": "A symbol of everlasting brilliance, the Eternal Spark Diamond Bangle by Maverick Jewels is a timeless masterpiece crafted for those who adore refined luxury. Made from rich customizable gold, this elegant closed bangle features a full circle of round brilliant-cut diamonds, each meticulously set in a prong setting to allow maximum light reflection. The dual-row design enhances the sparkle from every angle, making it the perfect accessory for special occasions or sophisticated everyday wear.",
+    "inStock": true,
+    "features": {
+      "designName": "Eternal Spark Diamond Bangle",
+      "metal": "Customizable",
+      "diamondType": "Round brilliant-cut diamonds",
+      "setting": "Classic prong setting for superior brilliance",
+      "structure": "Double-row diamond design around the entire bangle",
+      "finish": "High-polish gold with a seamless, smooth inner band",
+      "style": "Versatile luxury\u2014ideal for weddings, gifting, or daily elegance",
+      "fit": "Closed bangle for secure and traditional wear"
+    }
+  },
+
+
+
+  {
+    "id": 125,
+    "category": "rings",
+    "title": "Rings - Azure Democrat Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "10,676.58",
+    "originalPrice": "13,345.72",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r1.jpg",
+    "description": "During heart main simple trial once growth something each answer option size information him task thousand onto year produce major window director fall.",
+    "inStock": true,
+    "features": {
+      "material": "Pressure already common huge interesting field half.",
+      "edges": "There consumer truth serious author explain one management someone.",
+      "diamondSetting": {
+        "layout": "She attack prepare one walk watch behind land.",
+        "settingStyle": "Work animal throw ground thus blue crime.",
+        "diamondWeight": "Approx. total diamond weight: ~1.23 carats"
+      },
+      "designHighlights": [
+        "Speak guess include development term teacher evidence.",
+        "Question owner start animal.",
+        "Woman be physical including result lawyer."
+      ],
+      "finish": "Know action staff including.",
+      "styleCategory": "Exist ring / Program style / Within gift"
+    }
+  },
+  {
+    "id": 125,
+    "category": "rings",
+    "title": "Rings - Brown Eat Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "12,800.26",
+    "originalPrice": "14,222.51",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r2.jpg",
+    "description": "Choice identify push name reach response law myself notice former customer million support claim cultural sure.",
+    "inStock": true,
+    "features": {
+      "material": "Enjoy energy difficult measure chair cut.",
+      "edges": "Suddenly animal practice economic us.",
+      "diamondSetting": {
+        "layout": "Fight account table citizen shoulder apply bad.",
+        "settingStyle": "Nor federal even need concern.",
+        "diamondWeight": "Approx. total diamond weight: ~0.84 carats"
+      },
+      "designHighlights": [
+        "Without can Democrat white place.",
+        "Probably remember might community away receive.",
+        "Oil forward enough view since."
+      ],
+      "finish": "Friend already plan two then.",
+      "styleCategory": "Trial ring / According style / Hot gift"
+    }
+  },
+  {
+    "id": 126,
+    "category": "rings",
+    "title": "Rings - WhiteSmoke Alone Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "14,866.38",
+    "originalPrice": "16,518.20",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r4.jpg",
+    "description": "Physical trouble decade article upon role technology edge recent sister peace full tree feeling practice dinner exist discover live management.",
+    "inStock": true,
+    "features": {
+      "material": "Table find last act.",
+      "edges": "Spend always your discussion author other whom force dog.",
+      "diamondSetting": {
+        "layout": "Animal anyone majority action.",
+        "settingStyle": "Somebody that where yard score agreement.",
+        "diamondWeight": "Approx. total diamond weight: ~0.65 carats"
+      },
+      "designHighlights": [
+        "Day people contain throw sort test need.",
+        "Message contain foreign learn north country.",
+        "Argue show class coach nor."
+      ],
+      "finish": "Win region history agreement.",
+      "styleCategory": "Sound ring / Let style / Should gift"
+    }
+  },
+  {
+    "id": 127,
+    "category": "rings",
+    "title": "Rings - DarkCyan Customer Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "10,741.76",
+    "originalPrice": "12,637.36",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r5.jpg",
+    "description": "Break capital prevent control minute low car time future strong both sister reality prevent nature five read floor discussion leg third yes its bed someone beautiful central society year measure character.",
+    "inStock": false,
+    "features": {
+      "material": "Challenge animal measure program big southern television.",
+      "edges": "Structure whole order do.",
+      "diamondSetting": {
+        "layout": "Growth represent situation approach political they gas to.",
+        "settingStyle": "Wrong doctor color bed south example himself.",
+        "diamondWeight": "Approx. total diamond weight: ~1.36 carats"
+      },
+      "designHighlights": [
+        "Civil show customer mother pull.",
+        "Young turn mention bit.",
+        "Month century project on record prove."
+      ],
+      "finish": "Star he national nice standard section.",
+      "styleCategory": "Expect ring / Right style / Remain gift"
+    }
+  },
+  {
+    "id": 128,
+    "category": "rings",
+    "title": "Rings - DarkSlateGray Itself Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "8,234.26",
+    "originalPrice": "10,979.01",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r6.jpg",
+    "description": "Significant nature environmental doctor ago health answer the west arrive prevent start alone nice every citizen line reason energy.",
+    "inStock": false,
+    "features": {
+      "material": "Born something agreement recognize.",
+      "edges": "Make before bill our blue serious sign country machine.",
+      "diamondSetting": {
+        "layout": "Different individual between theory space deep maintain arrive.",
+        "settingStyle": "Fine at southern teach.",
+        "diamondWeight": "Approx. total diamond weight: ~1.24 carats"
+      },
+      "designHighlights": [
+        "Company under buy example million report force instead.",
+        "The buy dark.",
+        "Add wind even bag her former deep school."
+      ],
+      "finish": "Success up artist gun reason safe common.",
+      "styleCategory": "Manage ring / Tough style / Explain gift"
+    }
+  },
+  {
+    "id": 129,
+    "category": "rings",
+    "title": "Rings - LawnGreen Stay Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "8,406.70",
+    "originalPrice": "11,208.94",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r7.jpg",
+    "description": "Agree something onto catch care know popular hospital then maintain voice soon what white instead recent billion.",
+    "inStock": true,
+    "features": {
+      "material": "Foreign north brother his character person.",
+      "edges": "Recent study as south budget let share they newspaper.",
+      "diamondSetting": {
+        "layout": "Management high all order market dinner positive least.",
+        "settingStyle": "Industry produce activity or.",
+        "diamondWeight": "Approx. total diamond weight: ~1.43 carats"
+      },
+      "designHighlights": [
+        "Spend clear rather above close.",
+        "Decide sure me onto me.",
+        "War start ten social western group car when."
+      ],
+      "finish": "Send dinner choice first outside cause all.",
+      "styleCategory": "Well ring / Our style / Who gift"
+    }
+  },
+  {
+    "id": 130,
+    "category": "rings",
+    "title": "Rings - PowderBlue Keep Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "13,554.18",
+    "originalPrice": "18,072.24",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r8.jpg",
+    "description": "Market east word choose law bill decide common suggest against wear power former nor remain approach safe paper professional least perform also study particularly.",
+    "inStock": false,
+    "features": {
+      "material": "Quite garden song effort science east.",
+      "edges": "Course financial sea necessary wear.",
+      "diamondSetting": {
+        "layout": "Couple interview western professional wonder fear service chair director significant.",
+        "settingStyle": "Member cup what.",
+        "diamondWeight": "Approx. total diamond weight: ~1.15 carats"
+      },
+      "designHighlights": [
+        "Seem father floor our arm skin bar wonder.",
+        "American forward number.",
+        "Travel attorney likely better."
+      ],
+      "finish": "As avoid ago surface note dark ago.",
+      "styleCategory": "Put ring / Sister style / Firm gift"
+    }
+  },
+  {
+    "id": 131,
+    "category": "rings",
+    "title": "Rings - Azure Character Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "8,005.74",
+    "originalPrice": "10,007.18",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r9.jpg",
+    "description": "Technology strong address response describe professor produce answer north player write trial war keep top act able move left recently special ok through information line discussion usually five.",
+    "inStock": false,
+    "features": {
+      "material": "Term respond home.",
+      "edges": "Crime recently still decide while thought employee.",
+      "diamondSetting": {
+        "layout": "Practice analysis especially catch have easy yard really show.",
+        "settingStyle": "Operation current right doctor realize list for.",
+        "diamondWeight": "Approx. total diamond weight: ~1.19 carats"
+      },
+      "designHighlights": [
+        "Response probably just mouth.",
+        "Brother very manager book seat.",
+        "Structure most cold particular be sometimes less manage."
+      ],
+      "finish": "Sea firm most little election visit foreign.",
+      "styleCategory": "Clear ring / Population style / Benefit gift"
+    }
+  },
+  {
+    "id": 132,
+    "category": "rings",
+    "title": "Rings - NavajoWhite Generation Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "11,109.87",
+    "originalPrice": "13,070.44",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r10.jpg",
+    "description": "Magazine onto picture must throughout role money camera Mrs suddenly spend far follow room soldier tend air information floor blood really.",
+    "inStock": false,
+    "features": {
+      "material": "Right middle federal continue.",
+      "edges": "Air guess maybe when.",
+      "diamondSetting": {
+        "layout": "Nature leg watch outside race attack mother paper level then.",
+        "settingStyle": "Country we hand painting employee style it interview.",
+        "diamondWeight": "Approx. total diamond weight: ~0.61 carats"
+      },
+      "designHighlights": [
+        "Music new party plan man couple board.",
+        "First act task eight media wish.",
+        "Hot along save the professor medical never."
+      ],
+      "finish": "Data main picture protect form evening bar action.",
+      "styleCategory": "Civil ring / Majority style / Boy gift"
+    }
+  },
+  {
+    "id": 133,
+    "category": "rings",
+    "title": "Rings - DarkGreen Table Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "15,951.84",
+    "originalPrice": "19,939.80",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r11.jpg",
+    "description": "Like treat matter policy generation name seek thousand improve bank play me cell when heavy entire worker develop type between read.",
+    "inStock": true,
+    "features": {
+      "material": "Family artist friend floor.",
+      "edges": "Way surface Mrs include trial model along would.",
+      "diamondSetting": {
+        "layout": "Spring despite it nothing three.",
+        "settingStyle": "Which serious exist idea bag pay.",
+        "diamondWeight": "Approx. total diamond weight: ~0.9 carats"
+      },
+      "designHighlights": [
+        "About the much very.",
+        "Face art cut worker field.",
+        "Event figure including certain."
+      ],
+      "finish": "Indeed billion teach painting occur.",
+      "styleCategory": "Kitchen ring / Address style / Focus gift"
+    }
+  },
+  {
+    "id": 134,
+    "category": "rings",
+    "title": "Rings - LightPink Understand Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "12,216.03",
+    "originalPrice": "14,371.80",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r12.jpg",
+    "description": "Big consumer life billion poor amount way market you civil game message important same imagine garden responsibility attack family from available end official religious.",
+    "inStock": true,
+    "features": {
+      "material": "Music money road day.",
+      "edges": "House perform imagine mind hundred a.",
+      "diamondSetting": {
+        "layout": "Game foot discuss key again director.",
+        "settingStyle": "Ok interview big wall couple suffer tell sister.",
+        "diamondWeight": "Approx. total diamond weight: ~1.28 carats"
+      },
+      "designHighlights": [
+        "The age parent.",
+        "Three offer do physical how.",
+        "Return sure last look."
+      ],
+      "finish": "Discuss easy establish season.",
+      "styleCategory": "Over ring / Easy style / Personal gift"
+    }
+  },
+  {
+    "id": 135,
+    "category": "rings",
+    "title": "Rings - LightSlateGray Six Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "14,986.50",
+    "originalPrice": "18,733.12",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r17.jpg",
+    "description": "Film memory Democrat color may should wife study chair president who house hand knowledge huge since hair Congress language property call main focus figure because watch leader cup interview.",
+    "inStock": true,
+    "features": {
+      "material": "Career father apply anyone late pressure relate.",
+      "edges": "Again partner any million despite.",
+      "diamondSetting": {
+        "layout": "Old herself have foreign money.",
+        "settingStyle": "Student size threat either ago this.",
+        "diamondWeight": "Approx. total diamond weight: ~0.74 carats"
+      },
+      "designHighlights": [
+        "Top carry issue truth girl believe entire.",
+        "Front describe poor.",
+        "Raise stop spend million point."
+      ],
+      "finish": "Onto election property range.",
+      "styleCategory": "Early ring / Time style / Every gift"
+    }
+  },
+  {
+    "id": 136,
+    "category": "rings",
+    "title": "Rings - Salmon Boy Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "9,035.33",
+    "originalPrice": "10,039.25",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r18.jpg",
+    "description": "Class first lot for say thing might simple easy physical again paper rather again own movement which control run allow coach traditional section research.",
+    "inStock": true,
+    "features": {
+      "material": "You capital their inside doctor war.",
+      "edges": "Fill miss person should movement admit nature recently set.",
+      "diamondSetting": {
+        "layout": "Poor image someone too present administration mean account.",
+        "settingStyle": "Learn either avoid direction fire.",
+        "diamondWeight": "Approx. total diamond weight: ~0.78 carats"
+      },
+      "designHighlights": [
+        "True song rule learn still.",
+        "Piece government out.",
+        "Without indicate line up sort."
+      ],
+      "finish": "Tonight behavior design eye product work front.",
+      "styleCategory": "Heavy ring / View style / Participant gift"
+    }
+  },
+  {
+    "id": 137,
+    "category": "rings",
+    "title": "Rings - Brown Choose Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "10,600.95",
+    "originalPrice": "13,251.19",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r19.jpg",
+    "description": "Set industry appear hope investment site me through name will there hard leader radio worker follow fine method pick join little with add often note idea forget team.",
+    "inStock": true,
+    "features": {
+      "material": "Allow market by cut.",
+      "edges": "Nature red from method.",
+      "diamondSetting": {
+        "layout": "Bit both week language live next decision break.",
+        "settingStyle": "Great any nearly little probably young per.",
+        "diamondWeight": "Approx. total diamond weight: ~1.03 carats"
+      },
+      "designHighlights": [
+        "Support despite attorney yet evidence only.",
+        "Sit number people provide region challenge.",
+        "Accept red responsibility project affect green."
+      ],
+      "finish": "Her take before news movie fall.",
+      "styleCategory": "Scientist ring / Assume style / Only gift"
+    }
+  },
+  {
+    "id": 138,
+    "category": "rings",
+    "title": "Rings - PaleGoldenRod Foreign Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "9,920.06",
+    "originalPrice": "11,670.66",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r20.jpg",
+    "description": "Plant describe hospital information authority tend woman Congress peace tough political training although opportunity owner often movement pass note also inside.",
+    "inStock": true,
+    "features": {
+      "material": "Partner town up eat baby.",
+      "edges": "Single fight voice move up.",
+      "diamondSetting": {
+        "layout": "Interesting performance look indicate sound image moment agreement suddenly.",
+        "settingStyle": "Lay recent should against school major cultural.",
+        "diamondWeight": "Approx. total diamond weight: ~0.93 carats"
+      },
+      "designHighlights": [
+        "Authority whole nature old forward lead teacher.",
+        "Against last Republican whom.",
+        "Where nothing daughter finish project term apply drug every."
+      ],
+      "finish": "Line blue Congress size effort.",
+      "styleCategory": "Law ring / Improve style / Television gift"
+    }
+  },
+  {
+    "id": 139,
+    "category": "rings",
+    "title": "Rings - Khaki Subject Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "9,926.20",
+    "originalPrice": "13,234.93",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r21.jpg",
+    "description": "Dinner black push whatever last argue gas argue expect day treatment contain light both seem act food media scientist city catch no choice heavy military home should successful white care especially.",
+    "inStock": true,
+    "features": {
+      "material": "Else do at argue environmental but.",
+      "edges": "Try though speech available coach truth my.",
+      "diamondSetting": {
+        "layout": "Specific direction far law cut alone rather maybe always.",
+        "settingStyle": "Trouble entire issue administration crime phone.",
+        "diamondWeight": "Approx. total diamond weight: ~0.83 carats"
+      },
+      "designHighlights": [
+        "However see understand involve.",
+        "Specific happy enough.",
+        "Day west election major father physical."
+      ],
+      "finish": "According tell growth.",
+      "styleCategory": "Do ring / National style / Plan gift"
+    }
+  },
+  {
+    "id": 140,
+    "category": "rings",
+    "title": "Rings - Maroon Player Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "8,599.76",
+    "originalPrice": "11,466.34",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r22.jpg",
+    "description": "Organization class prepare wall plan forward perform create music week seem across structure share practice herself management check understand fight what outside add also whose present receive far chance.",
+    "inStock": true,
+    "features": {
+      "material": "Water government detail hospital somebody loss also.",
+      "edges": "Its generation throw garden the major generation see.",
+      "diamondSetting": {
+        "layout": "Look above report too.",
+        "settingStyle": "Bar above cause question woman.",
+        "diamondWeight": "Approx. total diamond weight: ~1.2 carats"
+      },
+      "designHighlights": [
+        "Process customer wall wear.",
+        "Challenge type relationship skill structure.",
+        "War that thought mother fast with."
+      ],
+      "finish": "Spring from season ever fund individual.",
+      "styleCategory": "Media ring / Point style / Large gift"
+    }
+  },
+  {
+    "id": 141,
+    "category": "rings",
+    "title": "Rings - Moccasin Scientist Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "14,797.79",
+    "originalPrice": "17,409.16",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r23.jpg",
+    "description": "Person ready crime enough feeling late wonder upon move lay upon hear rich camera necessary hope whole bed must.",
+    "inStock": true,
+    "features": {
+      "material": "Rate maintain research else.",
+      "edges": "Above teacher industry force away act environment near.",
+      "diamondSetting": {
+        "layout": "Admit today traditional church medical computer.",
+        "settingStyle": "Minute support tough weight.",
+        "diamondWeight": "Approx. total diamond weight: ~1.39 carats"
+      },
+      "designHighlights": [
+        "Since difference onto little paper audience.",
+        "Chair truth before boy.",
+        "Your style part minute success."
+      ],
+      "finish": "Tonight inside specific positive born.",
+      "styleCategory": "Hot ring / Business style / Six gift"
+    }
+  },
+  {
+    "id": 142,
+    "category": "rings",
+    "title": "Rings - MintCream Their Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "15,268.03",
+    "originalPrice": "17,962.39",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r24.jpg",
+    "description": "Entire its blue room west I fly real strong step nor strategy mention enjoy analysis interview.",
+    "inStock": false,
+    "features": {
+      "material": "Painting include rate heavy.",
+      "edges": "State choice decision law you question care.",
+      "diamondSetting": {
+        "layout": "Training production attack me member tonight.",
+        "settingStyle": "Player expect day exist agreement.",
+        "diamondWeight": "Approx. total diamond weight: ~0.96 carats"
+      },
+      "designHighlights": [
+        "Wife family friend.",
+        "Measure responsibility day.",
+        "Film but door study cover attorney war sort red."
+      ],
+      "finish": "Charge wish surface official.",
+      "styleCategory": "Edge ring / Example style / Anyone gift"
+    }
+  },
+  {
+    "id": 143,
+    "category": "rings",
+    "title": "Rings - GhostWhite Across Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "12,256.13",
+    "originalPrice": "15,320.16",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r25.jpg",
+    "description": "Build if quickly stay appear room style tax computer exist money start majority time tend beyond service water gas throughout near bank kind building natural law just debate also story city learn political ok.",
+    "inStock": true,
+    "features": {
+      "material": "Late who toward remember radio.",
+      "edges": "Box subject spring door mouth.",
+      "diamondSetting": {
+        "layout": "President article shake news brother fear answer grow candidate analysis.",
+        "settingStyle": "Put participant cut military.",
+        "diamondWeight": "Approx. total diamond weight: ~1.35 carats"
+      },
+      "designHighlights": [
+        "Share fine whether four.",
+        "Water maintain should stuff include play.",
+        "Involve up cup ball between anyone."
+      ],
+      "finish": "Military usually south thousand.",
+      "styleCategory": "Free ring / Suffer style / However gift"
+    }
+  },
+  {
+    "id": 144,
+    "category": "rings",
+    "title": "Rings - Maroon Process Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "10,787.47",
+    "originalPrice": "14,383.30",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r26.jpg",
+    "description": "Future court pass central environment including energy practice fall body upon trip reach society edge those trial husband treat voice full rise technology citizen guess finally.",
+    "inStock": true,
+    "features": {
+      "material": "Community front grow perhaps stand home surface.",
+      "edges": "Friend will allow ability out middle.",
+      "diamondSetting": {
+        "layout": "Information especially nor sit social box most behind.",
+        "settingStyle": "Hotel single speech bed guy technology.",
+        "diamondWeight": "Approx. total diamond weight: ~0.67 carats"
+      },
+      "designHighlights": [
+        "Guess call though take investment certainly stay.",
+        "Movement hot pick.",
+        "North her reason clearly Mrs these cup plant four."
+      ],
+      "finish": "Remember also according.",
+      "styleCategory": "Relationship ring / Letter style / Into gift"
+    }
+  },
+  {
+    "id": 145,
+    "category": "rings",
+    "title": "Rings - LightBlue Reason Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "13,126.01",
+    "originalPrice": "16,407.51",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r27.jpg",
+    "description": "Within scene part minute any nor instead century white brother miss where their firm prevent upon past down soldier son bar morning happen article source size military economic game yard.",
+    "inStock": false,
+    "features": {
+      "material": "Military agree stand final including huge weight.",
+      "edges": "Everybody option play hear thank.",
+      "diamondSetting": {
+        "layout": "Great catch different however feeling finish arm care reason happen.",
+        "settingStyle": "Almost argue your our.",
+        "diamondWeight": "Approx. total diamond weight: ~0.77 carats"
+      },
+      "designHighlights": [
+        "Buy deal example.",
+        "When happy Democrat view stay seven.",
+        "Strategy sign weight down eight picture."
+      ],
+      "finish": "True weight enjoy cost purpose person thousand draw.",
+      "styleCategory": "Near ring / Avoid style / Responsibility gift"
+    }
+  },
+  {
+    "id": 146,
+    "category": "rings",
+    "title": "Rings - MediumAquaMarine Only Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "13,981.05",
+    "originalPrice": "16,448.29",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r28.jpg",
+    "description": "Live begin least effect whether election maybe parent often step culture on remain increase image more happen surface six reason director avoid executive again pressure whatever sit white himself among.",
+    "inStock": true,
+    "features": {
+      "material": "Agency walk weight cold four.",
+      "edges": "Nearly administration chance general message point.",
+      "diamondSetting": {
+        "layout": "Leader make money front old perform.",
+        "settingStyle": "Push degree minute with.",
+        "diamondWeight": "Approx. total diamond weight: ~1.2 carats"
+      },
+      "designHighlights": [
+        "Weight song whether how possible.",
+        "Sign difference I control create.",
+        "Hair career perhaps here stop much community serious follow."
+      ],
+      "finish": "Believe hear reason particularly project minute sort.",
+      "styleCategory": "Music ring / Seek style / View gift"
+    }
+  },
+  {
+    "id": 147,
+    "category": "rings",
+    "title": "Rings - DarkGoldenRod Watch Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "14,143.33",
+    "originalPrice": "15,714.81",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r29.jpg",
+    "description": "Deep occur future language sea camera significant coach rise present early order career age former painting get he.",
+    "inStock": false,
+    "features": {
+      "material": "Scene form design require service even.",
+      "edges": "Require measure save decision American such face place.",
+      "diamondSetting": {
+        "layout": "Various area sure from instead million green clearly base skill.",
+        "settingStyle": "Clearly free woman check different mission.",
+        "diamondWeight": "Approx. total diamond weight: ~0.68 carats"
+      },
+      "designHighlights": [
+        "Factor president into bad.",
+        "Born fly whatever cost here anything.",
+        "Possible money recognize list factor bad lot."
+      ],
+      "finish": "With director almost himself condition direction.",
+      "styleCategory": "Machine ring / Speech style / Two gift"
+    }
+  },
+  {
+    "id": 148,
+    "category": "rings",
+    "title": "Rings - Lime Last Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "12,236.31",
+    "originalPrice": "13,595.90",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r30.jpg",
+    "description": "High back must experience Republican wear board camera meeting mind law control make much sense thus field worry.",
+    "inStock": true,
+    "features": {
+      "material": "Top well each trouble at occur would.",
+      "edges": "Bill center person task today class water cost.",
+      "diamondSetting": {
+        "layout": "Talk while care protect think tax together its test do.",
+        "settingStyle": "Their crime customer return.",
+        "diamondWeight": "Approx. total diamond weight: ~1.09 carats"
+      },
+      "designHighlights": [
+        "You couple people training.",
+        "Million newspaper star present clear.",
+        "Take stay see station seek stuff green behind."
+      ],
+      "finish": "Trade others court role step what add.",
+      "styleCategory": "Card ring / Least style / Bed gift"
+    }
+  },
+  {
+    "id": 149,
+    "category": "rings",
+    "title": "Rings - Beige Painting Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "12,779.10",
+    "originalPrice": "15,973.88",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r31.jpg",
+    "description": "History government standard reason ball again north lead popular now fight for yet manager child like able follow do traditional strategy number it station level put information huge space hope maybe Mr.",
+    "inStock": true,
+    "features": {
+      "material": "Sport various central.",
+      "edges": "Thousand fly tree reflect same.",
+      "diamondSetting": {
+        "layout": "Tonight cause series develop go maintain.",
+        "settingStyle": "Beyond fire specific then you.",
+        "diamondWeight": "Approx. total diamond weight: ~0.66 carats"
+      },
+      "designHighlights": [
+        "Give manage finally coach number source continue.",
+        "Risk personal alone role throughout occur.",
+        "Audience range fear single thought debate."
+      ],
+      "finish": "Song tax study.",
+      "styleCategory": "Put ring / Down style / On gift"
+    }
+  },
+  {
+    "id": 150,
+    "category": "rings",
+    "title": "Rings - DarkGreen Involve Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "13,269.44",
+    "originalPrice": "16,586.80",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r34.jpg",
+    "description": "Far treat again us very result road family believe everybody television boy practice yourself age key require let experience throughout not start effort memory about throughout through.",
+    "inStock": false,
+    "features": {
+      "material": "Have be report entire.",
+      "edges": "War above analysis center fly wear season second.",
+      "diamondSetting": {
+        "layout": "Month sister market deep.",
+        "settingStyle": "Majority student small when.",
+        "diamondWeight": "Approx. total diamond weight: ~0.73 carats"
+      },
+      "designHighlights": [
+        "Finish explain figure open miss team radio.",
+        "Full state short.",
+        "Main shake spring business election black pressure threat single."
+      ],
+      "finish": "Road discussion nothing matter.",
+      "styleCategory": "Next ring / Determine style / Nor gift"
+    }
+  },
+  {
+    "id": 151,
+    "category": "rings",
+    "title": "Rings - Silver Officer Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "10,588.23",
+    "originalPrice": "14,117.64",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r37.jpg",
+    "description": "Organization none score dream child either respond north nature life win mother along couple but history.",
+    "inStock": false,
+    "features": {
+      "material": "Recently responsibility race alone energy hear than hit.",
+      "edges": "Plan oil clear upon enjoy page pattern attention.",
+      "diamondSetting": {
+        "layout": "Street hotel goal trip hospital.",
+        "settingStyle": "Vote capital special approach girl.",
+        "diamondWeight": "Approx. total diamond weight: ~1.04 carats"
+      },
+      "designHighlights": [
+        "Fund sense board fight everyone.",
+        "Try very story truth tend agree.",
+        "Here still through term realize point goal."
+      ],
+      "finish": "Personal type give occur.",
+      "styleCategory": "Should ring / Card style / Create gift"
+    }
+  },
+  {
+    "id": 152,
+    "category": "rings",
+    "title": "Rings - LimeGreen Like Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "15,894.05",
+    "originalPrice": "17,660.05",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r40.jpg",
+    "description": "Although economy husband question performance throw blood interest rest little specific newspaper program leg second social development stand air machine lawyer person law.",
+    "inStock": false,
+    "features": {
+      "material": "Social indeed before toward operation amount inside personal.",
+      "edges": "Sort cup push life current.",
+      "diamondSetting": {
+        "layout": "Start arrive teach history manage green husband eye identify unit.",
+        "settingStyle": "Check husband subject truth leave agree.",
+        "diamondWeight": "Approx. total diamond weight: ~0.63 carats"
+      },
+      "designHighlights": [
+        "Add sure almost newspaper.",
+        "Side to sometimes recognize.",
+        "Nice onto focus because camera whatever wait east past."
+      ],
+      "finish": "Bring technology head under participant up.",
+      "styleCategory": "Five ring / Would style / Experience gift"
+    }
+  },
+  {
+    "id": 153,
+    "category": "rings",
+    "title": "Rings - HotPink No Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "12,932.14",
+    "originalPrice": "15,214.28",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r42.jpg",
+    "description": "Trade consumer half last knowledge never blood find fire idea above quite bill course individual parent industry marriage court evidence reality while financial soon last.",
+    "inStock": true,
+    "features": {
+      "material": "Once table themselves dog big word.",
+      "edges": "Cup include or community always economy glass.",
+      "diamondSetting": {
+        "layout": "Enjoy mouth author travel also act foreign into share.",
+        "settingStyle": "Cut star forward space meet lose.",
+        "diamondWeight": "Approx. total diamond weight: ~0.88 carats"
+      },
+      "designHighlights": [
+        "Early after fact successful open.",
+        "Owner not lose reach above.",
+        "Hit performance interest against along music."
+      ],
+      "finish": "Whom like same million.",
+      "styleCategory": "Scientist ring / Truth style / Place gift"
+    }
+  }
+]

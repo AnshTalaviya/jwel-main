@@ -1,0 +1,3301 @@
+[
+  {
+    "id": 1,
+    "category": "rings",
+    "title": "Triple Row Brilliance Diamond Ring - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "37,682.28",
+    "originalPrice": "47,102.85",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r2.jpg",
+    "description": "Sophisticated, sleek, and designed for everyday royalty — the Triple Row Brilliance Ring by MACERICK JEWELLERY is a celebration of modern refinement. Crafted in gleaming yellow gold, this ring features three vertical rows of high-clarity diamonds, precisely set to maximize sparkle and symmetry. The smooth, contoured band enhances comfort, while its polished finish radiates timeless elegance.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 2,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "47,184.43",
+    "originalPrice": "52,427.14",
+    "discount": "10% OFF",
+    "imageFront": "images/necklaces/n6.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 3,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "47,172.79",
+    "originalPrice": "62,897.05",
+    "discount": "25% OFF",
+    "imageFront": "images/earrings/e36.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": false,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 4,
+    "category": "rings",
+    "title": "Rings - Imperial Crown Solitaire Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "28,625.57",
+    "originalPrice": "38,167.43",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r38.jpg",
+    "description": "Make an uncompromising statement of success with the Imperial Crown Solitaire Ring by Maverick Jewels. Crafted in radiant yellow gold, this ring centers on a commanding round-cut solitaire diamond, elevated by a regal four-prong setting. Flanking the centerpiece are pavé-set side panels, adding layered brilliance to this powerful, masculine design. A symbol of ambition, authority, and excellence.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable, high-durability with smooth-polish finish for lasting elegance",
+      "edges": "Beveled edges for sleek detailing and comfort",
+      "diamondComposition": {
+        "centerpiece": "1 large round brilliant-cut solitaire diamond",
+        "sideAccents": "Two pavé panels each with multiple smaller round-cut diamonds",
+        "diamondWeight": "Approx. total diamond weight: 1.20 – 1.50 carats (customizable)",
+        "setting": "Prong and pavé setting combination for maximum brilliance"
+      },
+      "designElements": {
+        "band": "Thick, masculine band with architectural edges",
+        "elevation": "Elevated center for prominence and light exposure",
+        "aesthetic": "Modern luxury blended with timeless regal appeal"
+      },
+      "finish": "Polished to a mirror finish with clean contours",
+      "designHighlights": [
+        "Regal solitaire centerpiece with layered pavé brilliance",
+        "Clean, authoritative structure exudes confidence",
+        "Ideal for elite fashion, milestones, or modern engagements"
+      ],
+      "styleCategory": "Men's statement ring / Engagement or milestone gift / Elite fashion ring"
+    }
+  }
+  ,
+  {
+    "id": 5,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "41,943.81",
+    "originalPrice": "46,604.23",
+    "discount": "10% OFF",
+    "imageFront": "images/earrings/e9.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 6,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "55,442.02",
+    "originalPrice": "69,302.53",
+    "discount": "20% OFF",
+    "imageFront": "images/earrings/e20.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 7,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "39,366.98",
+    "originalPrice": "46,314.09",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r40.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 8,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "53,396.30",
+    "originalPrice": "59,329.22",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r18.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 9,
+    "category": "rings",
+    "title": "Rings - Imperial Grid Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "18,667.94",
+    "originalPrice": "20,742.16",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r33.jpg",
+    "description": "Command attention with the Imperial Grid Diamond Ring from Maverick Jewels — a fusion of luxury and masculine design. Crafted in radiant 22K yellow gold, this masterpiece features a bold grid-patterned band and a perfectly aligned cluster of nine brilliant-cut diamonds. A true emblem of power, precision, and prestige, it's made for the man who leads with style.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable 22K yellow gold with solid and substantial feel for durability and comfort",
+      "edges": "Clean edges with an architectural, masculine finish",
+      "design": {
+        "shank": "Grid-textured shank with deep, clean-cut lines",
+        "structure": "Sleek and symmetrical structure for a bold yet refined look"
+      },
+      "diamondSetting": {
+        "layout": "9 round brilliant-cut diamonds arranged in a square 3x3 cluster layout",
+        "settingStyle": "Prong or pressure setting for enhanced sparkle and security",
+        "diamondWeight": "Approx. total diamond weight: ~0.75 carat (customizable)"
+      },
+      "finish": "High-gloss polish for a rich gold shine",
+      "designHighlights": [
+        "Masculine geometric grid structure",
+        "Compact cluster creates powerful visual focus",
+        "Bold gold body balanced with diamond brilliance"
+      ],
+      "styleCategory": "Statement ring / Signature men's ring / Occasion wear",
+      "idealFor": "Weddings, engagements, milestone gifts, or bold fashion wear"
+    }
+  }
+  
+  ,
+  {
+    "id": 10,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "58,022.05",
+    "originalPrice": "68,261.23",
+    "discount": "15% OFF",
+    "imageFront": "images/necklaces/n10.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": false,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 11,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "20,172.31",
+    "originalPrice": "22,413.68",
+    "discount": "10% OFF",
+    "imageFront": "images/earrings/e17.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 12,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "27,353.31",
+    "originalPrice": "32,180.36",
+    "discount": "15% OFF",
+    "imageFront": "images/earrings/e34.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 13,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "43,591.44",
+    "originalPrice": "58,121.92",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r4.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": false,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 14,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "52,573.72",
+    "originalPrice": "58,415.24",
+    "discount": "10% OFF",
+    "imageFront": "images/necklaces/n14.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 15,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "3,657.91",
+    "originalPrice": "4,303.42",
+    "discount": "15% OFF",
+    "imageFront": "images/earrings/e42.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 16,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "16,527.35",
+    "originalPrice": "19,443.94",
+    "discount": "15% OFF",
+    "imageFront": "images/earrings/e23.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 17,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "15,406.00",
+    "originalPrice": "19,257.50",
+    "discount": "20% OFF",
+    "imageFront": "images/necklaces/n29.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 18,
+    "category": "rings",
+    "title": "Rings - Imperial Tier Pavé Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "37,942.64",
+    "originalPrice": "50,590.18",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r13.jpg",
+    "description": "A bold emblem of success and sophistication, the Imperial Tier Pavé Ring is designed for the man who commands attention. With a grand rectangular tiered setting encrusted in multiple rows of round-cut diamonds, this ring delivers a powerful presence. Clean lines, sculpted symmetry, and rich yellow gold create a modern yet regal feel – perfect for formal flair or daily prestige.",
+    "inStock": false,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth and comfortable interior band",
+      "diamondArrangement": {
+        "centerpiece": "Multi-row pavé-set diamonds across a raised rectangular tier",
+        "shoulders": "Side panels and shoulders adorned with matching pavé diamonds",
+        "diamondWeight": "Approx. total diamond weight: 1.25 – 1.50 carats (customizable)"
+      },
+      "designHighlights": [
+        "Double-decked rectangular face structure with curved contour",
+        "Three-section shoulder detailing for visual strength",
+        "Slightly domed centerpiece gives dimensional elevation"
+      ],
+      "finish": "Polished gold base with high-clarity diamond sparkle",
+      "styleCategory": "Luxury men's cocktail ring / Anniversary gift / Elite fashion accessory"
+    }
+  }
+  
+  ,
+  {
+    "id": 19,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "17,480.10",
+    "originalPrice": "20,564.82",
+    "discount": "15% OFF",
+    "imageFront": "images/necklaces/n21.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 20,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "45,835.00",
+    "originalPrice": "53,923.53",
+    "discount": "15% OFF",
+    "imageFront": "images/earrings/e10.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 21,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "13,896.50",
+    "originalPrice": "19,852.14",
+    "discount": "30% OFF",
+    "imageFront": "images/rings/r22.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 22,
+    "category": "rings",
+    "title": "Rings - Regal Grid Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "36,907.29",
+    "originalPrice": "49,209.72",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r32.jpg",
+    "description": "Make an unforgettable impression with the Regal Grid Diamond Ring from Maverick Jewels. Designed for the modern gentleman who values elegance with an edge, this ring combines bold structure with refined luxury. Crafted in rich yellow gold, it features a distinctive grid-patterned shank and a stunning 3x3 cluster of brilliant-cut diamonds that exude power and prestige.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "designElements": {
+        "band": "Wide, textured band with a geometric grid finish for a bold and structured aesthetic",
+        "fit": "Flat-top surface ensures a comfortable, secure fit"
+      },
+      "diamondSetting": {
+        "layout": "9 round-cut diamonds in a symmetric 3x3 cluster",
+        "diamondWeight": "Approx. total diamond weight: ~0.75 carat (customizable)",
+        "setting": "Secure prong or invisible setting for a seamless sparkle"
+      },
+      "finish": "High-polish gold with fine detailing on the edges",
+      "styleCategory": "Statement ring / Cocktail ring / Men's fashion ring",
+      "idealFor": "Engagements, anniversaries, milestone celebrations, or luxury everyday wear"
+    }
+  }
+  ,
+  {
+    "id": 23,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "17,104.81",
+    "originalPrice": "24,435.45",
+    "discount": "30% OFF",
+    "imageFront": "images/earrings/e11.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 24,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "38,201.19",
+    "originalPrice": "42,445.77",
+    "discount": "10% OFF",
+    "imageFront": "images/earrings/e25.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 25,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "51,341.33",
+    "originalPrice": "68,455.10",
+    "discount": "25% OFF",
+    "imageFront": "images/necklaces/n27.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 26,
+    "category": "rings",
+    "title": "Rings - Legacy Crest Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "33,957.19",
+    "originalPrice": "39,949.63",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r15.jpg",
+    "description": "Embodying prestige and poise, the Legacy Crest Diamond Ring by Maverick Jewels commands attention with its geometric brilliance and luxurious design. At the center lies a square pavé-set diamond panel, framed by dynamic V-cut shoulders adorned with diamond arcs. Crafted in lustrous yellow gold with white gold accents, this ring is a regal expression of confidence and success.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable, BIS-hallmarked for certified gold purity",
+      "edges": "Smooth inner band for ergonomic wear",
+      "diamondConfiguration": {
+        "centerPanel": "Central square pavé block featuring 25+ round-cut diamonds",
+        "shoulders": "Diamond-studded shoulders forming elegant arcs",
+        "diamondWeight": "Approx. total diamond weight: 1.00 – 1.25 carats (customizable)"
+      },
+      "designElements": {
+        "crown": "Bold rectangular crown with multi-stone brilliance",
+        "structure": "V-shaped openwork beneath the shoulders adds structural finesse",
+        "shank": "Thick, tapered shank for durability and masculine elegance"
+      },
+      "finish": "Polished high-shine surface with diamond-reflective settings",
+      "designHighlights": [
+        "Geometric center design with layered detailing",
+        "Contrasting white and yellow gold tones for luxury effect",
+        "Ideal for high-end fashion and special occasions"
+      ],
+      "styleCategory": "High-luxury statement ring / Special occasion / Signature men's jewelry"
+    }
+  }
+  
+  ,
+  {
+    "id": 27,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "39,307.25",
+    "originalPrice": "52,409.66",
+    "discount": "25% OFF",
+    "imageFront": "images/earrings/e3.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 28,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "16,832.01",
+    "originalPrice": "19,802.36",
+    "discount": "15% OFF",
+    "imageFront": "images/earrings/e26.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 29,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "59,688.13",
+    "originalPrice": "66,320.15",
+    "discount": "10% OFF",
+    "imageFront": "images/necklaces/n18.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 30,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "6,712.25",
+    "originalPrice": "8,390.31",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r24.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 31,
+    "category": "rings",
+    "title": "Rings - Royal Halo Groove Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "42,675.10",
+    "originalPrice": "53,343.88",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r35.jpg",
+    "description": "Where elegance meets artistry — the Royal Halo Groove Ring by Maverick Jewels is a masterpiece of precision and brilliance. Crafted in radiant yellow gold, this ring features a tri-diamond centerpiece framed by two graceful rows of shimmering pavé diamonds. The sculpted split-band design adds dimensional depth, making it a timeless choice for refined taste.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable solid gold with smooth inner lining for daily comfort",
+      "diamondSetting": {
+        "centerRow": "3 round brilliant-cut diamonds set in bezel-inspired golden grooves",
+        "topBottomRows": "Pavé-set diamonds add shimmer and detail",
+        "totalDiamonds": "Approx. total diamond count: ~25+",
+        "diamondWeight": "Approx. total diamond weight: ~0.70-0.90 carats (customizable)"
+      },
+      "designDetails": {
+        "band": "Dual open grooves create a modern split-band effect",
+        "centerpiece": "Central diamonds raised for prominence",
+        "symmetry": "Symmetry between pavé lines enhances sparkle and balance"
+      },
+      "finish": "High-gloss polish with precision-finished edges",
+      "edges": "Soft rounded band for an elegant, comfortable fit",
+      "styleCategory": "Celebration ring / Premium men's fashion ring / Anniversary ring"
+    }
+  }
+  ,
+  {
+    "id": 32,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "45,922.59",
+    "originalPrice": "61,230.12",
+    "discount": "25% OFF",
+    "imageFront": "images/earrings/e39.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Soft rounded band for an elegant, comfortable fit ",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-gloss polish with precision-finished "
+    }
+  },
+  {
+    "id": 33,
+    "category": "bracelets",
+    "title": "Bracelets - Stylish Wrist Bracelet",
+    "brand": "MACERICK JEWELLERY",
+    "price": "32,794.44",
+    "originalPrice": "46,849.20",
+    "discount": "30% OFF",
+    "imageFront": "images/bracelets/b2.jpg",
+    "description": "Elegant bracelets piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 34,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "25,054.81",
+    "originalPrice": "31,318.51",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r20.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 35,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "8,264.74",
+    "originalPrice": "10,330.93",
+    "discount": "20% OFF",
+    "imageFront": "images/earrings/e19.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 36,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "36,742.91",
+    "originalPrice": "43,226.95",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r34.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 37,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "61,207.70",
+    "originalPrice": "72,009.06",
+    "discount": "15% OFF",
+    "imageFront": "images/earrings/e1.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 38,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "48,670.16",
+    "originalPrice": "54,077.96",
+    "discount": "10% OFF",
+    "imageFront": "images/earrings/e15.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 39,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "36,305.10",
+    "originalPrice": "51,864.43",
+    "discount": "30% OFF",
+    "imageFront": "images/necklaces/n9.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 40,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "35,485.51",
+    "originalPrice": "44,356.89",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r19.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 41,
+    "category": "rings",
+    "title": "Rings - Monarch Grid Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "39,455.25",
+    "originalPrice": "43,839.17",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r14.jpg",
+    "description": "Bold in form and futuristic in design, the Monarch Grid Diamond Ring is a statement of structure, power, and modern artistry. Crafted in dual-tone gold, it features a geometric, open-link shank design with a central rectangular bed of brilliant round-cut diamonds. It merges traditional opulence with architectural edge – perfect for men who lead with both elegance and innovation.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable, hallmarked for purity and long-lasting luster",
+      "edges": "Smooth inner band for comfortable all-day wear",
+      "diamondDetails": {
+        "layout": "Central rectangular cluster with 12+ round-cut diamonds",
+        "setting": "Precision pavé setting for seamless brilliance",
+        "diamondWeight": "Estimated total diamond weight: 0.60 – 0.75 carats (customizable)"
+      },
+      "designElements": {
+        "shank": "Unique open-grid shank inspired by mechanical symmetry",
+        "crown": "Raised diamond panel for dimensional elegance",
+        "sideMotifs": "Architectural side motifs resembling a link or hinge structure"
+      },
+      "finish": "High-polish yellow gold with matte white rhodium contrasts",
+      "designHighlights": [
+        "Fusion of modern mechanics with regal diamond arrangement",
+        "Structured yet elegant silhouette",
+        "Perfect for luxury casual wear or bold formal styling"
+      ],
+      "styleCategory": "Designer men's ring / Statement accessory / Luxury casual wear"
+    }
+  }
+  ,
+  {
+    "id": 42,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "43,890.07",
+    "originalPrice": "48,766.74",
+    "discount": "10% OFF",
+    "imageFront": "images/earrings/e2.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 43,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "40,041.76",
+    "originalPrice": "47,107.95",
+    "discount": "15% OFF",
+    "imageFront": "images/necklaces/n17.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 44,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "38,322.56",
+    "originalPrice": "54,746.51",
+    "discount": "30% OFF",
+    "imageFront": "images/rings/r21.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 45,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "10,372.42",
+    "originalPrice": "14,817.74",
+    "discount": "30% OFF",
+    "imageFront": "images/necklaces/n16.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 46,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "24,222.60",
+    "originalPrice": "34,603.72",
+    "discount": "30% OFF",
+    "imageFront": "images/rings/r30.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 47,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "13,532.02",
+    "originalPrice": "16,915.03",
+    "discount": "20% OFF",
+    "imageFront": "images/necklaces/n20.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 48,
+    "category": "bracelets",
+    "title": "Bracelets - Stylish Wrist Bracelet",
+    "brand": "MACERICK JEWELLERY",
+    "price": "44,131.97",
+    "originalPrice": "55,164.96",
+    "discount": "20% OFF",
+    "imageFront": "images/bracelets/b3.jpg",
+    "description": "Elegant bracelets piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 49,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "9,542.78",
+    "originalPrice": "11,928.48",
+    "discount": "20% OFF",
+    "imageFront": "images/necklaces/n2.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 50,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "27,444.30",
+    "originalPrice": "32,287.41",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r7.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 51,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "11,216.40",
+    "originalPrice": "12,462.67",
+    "discount": "10% OFF",
+    "imageFront": "images/necklaces/n25.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 52,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "27,877.58",
+    "originalPrice": "34,846.98",
+    "discount": "20% OFF",
+    "imageFront": "images/necklaces/n8.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 53,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "16,271.54",
+    "originalPrice": "20,339.42",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r5.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 54,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "33,282.80",
+    "originalPrice": "36,980.89",
+    "discount": "10% OFF",
+    "imageFront": "images/earrings/e33.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 55,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "36,668.26",
+    "originalPrice": "52,383.23",
+    "discount": "30% OFF",
+    "imageFront": "images/earrings/e38.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 56,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "28,197.94",
+    "originalPrice": "35,247.42",
+    "discount": "20% OFF",
+    "imageFront": "images/necklaces/n3.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 57,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "9,956.31",
+    "originalPrice": "11,062.57",
+    "discount": "10% OFF",
+    "imageFront": "images/earrings/e13.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 58,
+    "category": "rings",
+    "title": "Rings - Trident Spark Solitaire Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "48,503.29",
+    "originalPrice": "60,629.11",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r16.jpg",
+    "description": "Redefine power and precision with the Trident Spark Solitaire Ring by Maverick Jewels. Featuring a bold fusion of symmetry and shine, this ring showcases a central solitaire diamond flanked by three parallel pavé diamond stripes. The blend of polished yellow gold and white rhodium accents creates a strong, sophisticated silhouette – perfect for the modern man who leads with confidence.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable, BIS-hallmarked for purity and authenticity",
+      "diamondArrangement": {
+        "centerpiece": "1 round brilliant-cut solitaire diamond in a secure 4-prong setting",
+        "accentLines": "3 pavé-set rows of smaller diamonds aligned diagonally",
+        "diamondWeight": "Approx. total diamond weight: 0.50 – 0.70 carats (customizable)"
+      },
+      "designDetails": {
+        "bandStyle": "Distinctive trident-style band layout for an elevated profile",
+        "panelBalance": "Polished left panel balances the detailed right side",
+        "bandShape": "Slight tapering on the band for comfort and aesthetic harmony"
+      },
+      "finish": "High-gloss gold with rhodium-enhanced pavé setting",
+      "edges": "Smooth inner band for everyday comfort",
+      "designHighlights": [
+        "Bold solitaire centerpiece with symmetrical pavé accents",
+        "Contrasting textures for dynamic visual appeal",
+        "Ideal for modern engagements or statement fashion"
+      ],
+      "styleCategory": "Luxury men's fashion ring / Modern engagement ring / Statement accessory"
+    }
+  }
+  ,
+  
+  {
+    "id": 59,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "48,235.72",
+    "originalPrice": "64,314.29",
+    "discount": "25% OFF",
+    "imageFront": "images/necklaces/n26.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 60,
+    "category": "rings",
+    "title": "Rings - Solitaire Crest Men's Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "8,206.89",
+    "originalPrice": "11,724.13",
+    "discount": "30% OFF",
+    "imageFront": "images/rings/r36.jpg",
+    "description": "Minimalist yet undeniably powerful, the Solitaire Crest Men's Ring by Maverick Jewels redefines everyday sophistication. Crafted in rich yellow gold, this design features a single brilliant-cut diamond set in a square bezel, balanced by a sleek, grooved shoulder. It's a timeless statement of strength, simplicity, and refined taste.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable, BIS-hallmarked for purity and quality assurance",
+      "edges": "Minimalist contouring for a subtle, masculine look",
+      "diamondSetting": {
+        "diamond": "1 round brilliant-cut solitaire diamond",
+        "setting": "Secure 4-prong setting within a square bezel frame",
+        "diamondWeight": "Approx. diamond weight: 0.10 – 0.15 carat (customizable)"
+      },
+      "designElements": {
+        "band": "Tapered band for a smooth, comfortable fit",
+        "shoulder": "Sleek horizontal grooves add depth and a contemporary edge",
+        "surface": "Polished surfaces provide a clean, high-luster finish"
+      },
+      "finish": "Mirror-polished gold with precision-crafted grooves",
+      "styleCategory": "Daily wear / Promise ring / Men's classic solitaire ring"
+    }
+  }
+  
+  ,
+  {
+    "id": 61,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "39,221.41",
+    "originalPrice": "52,295.21",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r42.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 62,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "17,006.79",
+    "originalPrice": "24,295.41",
+    "discount": "30% OFF",
+    "imageFront": "images/necklaces/n1.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 63,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "33,814.86",
+    "originalPrice": "48,306.94",
+    "discount": "30% OFF",
+    "imageFront": "images/rings/r28.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 64,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "18,125.11",
+    "originalPrice": "22,656.39",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r11.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 65,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "28,730.56",
+    "originalPrice": "41,043.66",
+    "discount": "30% OFF",
+    "imageFront": "images/necklaces/n23.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 66,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "8,281.46",
+    "originalPrice": "10,351.82",
+    "discount": "20% OFF",
+    "imageFront": "images/earrings/e32.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 67,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "13,917.47",
+    "originalPrice": "19,882.10",
+    "discount": "30% OFF",
+    "imageFront": "images/earrings/e21.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 68,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "35,163.98",
+    "originalPrice": "39,071.09",
+    "discount": "10% OFF",
+    "imageFront": "images/earrings/e43.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 69,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "4,876.20",
+    "originalPrice": "6,966.00",
+    "discount": "30% OFF",
+    "imageFront": "images/earrings/e16.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 70,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "45,042.86",
+    "originalPrice": "50,047.62",
+    "discount": "10% OFF",
+    "imageFront": "images/earrings/e22.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 71,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "9,324.22",
+    "originalPrice": "10,969.67",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r27.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 72,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "41,220.26",
+    "originalPrice": "54,960.35",
+    "discount": "25% OFF",
+    "imageFront": "images/necklaces/n4.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 73,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "3,425.53",
+    "originalPrice": "3,806.14",
+    "discount": "10% OFF",
+    "imageFront": "images/necklaces/n28.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 74,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "31,985.02",
+    "originalPrice": "45,692.89",
+    "discount": "30% OFF",
+    "imageFront": "images/necklaces/n12.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": false,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 75,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "63,810.71",
+    "originalPrice": "70,900.79",
+    "discount": "10% OFF",
+    "imageFront": "images/earrings/e35.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 76,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "17,330.52",
+    "originalPrice": "24,757.88",
+    "discount": "30% OFF",
+    "imageFront": "images/earrings/e45.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 77,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "8,344.52",
+    "originalPrice": "11,920.75",
+    "discount": "30% OFF",
+    "imageFront": "images/earrings/e29.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 78,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "4,662.89",
+    "originalPrice": "6,217.18",
+    "discount": "25% OFF",
+    "imageFront": "images/earrings/e4.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": false,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 79,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "15,274.16",
+    "originalPrice": "21,820.23",
+    "discount": "30% OFF",
+    "imageFront": "images/necklaces/n19.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 80,
+    "category": "rings",
+    "title": "Rings - Triple Row Brilliance Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "51,480.19",
+    "originalPrice": "57,200.21",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r3.jpg",
+    "description": "Sophisticated, sleek, and designed for everyday royalty - the Triple Row Brilliance Ring by Maverick Jewels is a celebration of modern refinement. Crafted in gleaming yellow gold, this ring features three vertical rows of high-clarity diamonds, precisely set to maximize sparkle and symmetry. The smooth, contoured band enhances comfort, while its polished finish radiates timeless elegance.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold",
+      "styleCategory": "Men's classic fashion ring / Celebration ring / Anniversary band"
+    }
+  }
+  ,
+  {
+    "id": 81,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "36,791.73",
+    "originalPrice": "40,879.70",
+    "discount": "10% OFF",
+    "imageFront": "images/earrings/e46.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 82,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "57,606.54",
+    "originalPrice": "67,772.40",
+    "discount": "15% OFF",
+    "imageFront": "images/earrings/e31.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 83,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "20,362.10",
+    "originalPrice": "27,149.47",
+    "discount": "25% OFF",
+    "imageFront": "images/earrings/e47.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 84,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "25,976.04",
+    "originalPrice": "28,862.27",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r8.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 85,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "43,431.37",
+    "originalPrice": "51,095.73",
+    "discount": "15% OFF",
+    "imageFront": "images/necklaces/n5.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 86,
+    "category": "rings",
+    "title": "Rings - Imperial Crown Solitaire Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "25,166.39",
+    "originalPrice": "29,607.52",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r43.jpg",
+    "description": "Make an uncompromising statement of success with the Imperial Crown Solitaire Ring by Maverick Jewels. Crafted in radiant yellow gold, this ring centers on a commanding round-cut solitaire diamond, elevated by a regal four-prong setting. Flanking the centerpiece are pavé-set side panels, adding layered brilliance to this powerful, masculine design. A symbol of ambition, authority, and excellence.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable, high-durability with smooth-polish finish for lasting elegance",
+      "edges": "Beveled edges for sleek detailing and comfort",
+      "diamondComposition": {
+        "centerpiece": "1 large round brilliant-cut solitaire diamond",
+        "sideAccents": "Two pavé panels each with multiple smaller round-cut diamonds",
+        "diamondWeight": "Approx. total diamond weight: 1.20 – 1.50 carats (customizable)",
+        "setting": "Prong and pavé setting combination for maximum brilliance"
+      },
+      "designElements": {
+        "band": "Thick, masculine band with architectural edges",
+        "elevation": "Elevated center for prominence and light exposure",
+        "aesthetic": "Modern luxury blended with timeless regal appeal"
+      },
+      "finish": "Polished to a mirror finish with clean contours",
+      "designHighlights": [
+        "Regal solitaire centerpiece with layered pavé brilliance",
+        "Clean, authoritative structure exudes confidence",
+        "Ideal for elite fashion, milestones, or modern engagements"
+      ],
+      "styleCategory": "Men's statement ring / Engagement or milestone gift / Elite fashion ring"
+    }
+  }
+  
+  ,
+  {
+    "id": 87,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "33,975.79",
+    "originalPrice": "39,971.52",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r17.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 88,
+    "category": "rings",
+    "title": "Rings - Titan Link Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "34,876.83",
+    "originalPrice": "43,596.04",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r41.jpg",
+    "description": "Architectural excellence meets dazzling craftsmanship in the Titan Link Diamond Ring by Maverick Jewels. This standout piece features a bold dual-tone gold structure with geometric cutouts and a signature link-inspired design. The crown is encrusted with a sparkling row of round-cut diamonds, making it a modern masterpiece for the man who thrives on detail and dominance.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable dual-tone gold, lightweight yet strong",
+      "edges": "Fine detailing throughout the band and inner rim for comfort",
+      "diamondArrangement": {
+        "layout": "Rectangular diamond cluster with approx. 10 round-cut stones",
+        "setting": "Precision prong-set for brilliance and durability",
+        "diamondWeight": "Estimated diamond weight: ~0.60 – 0.75 carat (customizable)"
+      },
+      "designHighlights": [
+        "Unique link-style shank with grid-style cutouts and gold connector accents",
+        "Elevated diamond panel sits securely atop the band for prominence",
+        "Fusion of modern mechanics and traditional luxury"
+      ],
+      "finish": "High-polish yellow gold with brushed white gold contrast",
+      "styleCategory": "Luxury men's designer ring / Occasion ring / Contemporary statement ring"
+    }
+  }
+  ,
+  
+  {
+    "id": 89,
+    "category": "rings",
+    "title": "Rings - Valor Solitaire Textured Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "22,758.16",
+    "originalPrice": "30,344.21",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r45.jpg",
+    "description": "The Valor Solitaire Textured Ring by Maverick Jewels is where contemporary styling meets time-honored strength. Crafted in radiant yellow gold, this ring features a precision-set solitaire diamond framed by intricate bead-texture shoulders. Bold bevels and sleek curves give it a modern edge, making it a distinguished choice for the man of taste and conviction.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable, high-polish finish for lasting brilliance and wearability",
+      "edges": "Smooth, rounded interior for all-day comfort",
+      "diamondCenterpiece": {
+        "diamond": "1 round brilliant-cut solitaire diamond",
+        "setting": "Four-prong setting ensures security and maximum light reflection",
+        "diamondWeight": "Approx. diamond weight: ~0.15 to 0.30 carat (customizable)"
+      },
+      "designHighlights": [
+        "Raised V-groove shoulders with unique bead-texture detailing",
+        "Modern, symmetrical band with beveled cut-ins",
+        "Slim profile with bold presence"
+      ],
+      "finish": "Glossy top surface with fine matte bead accents",
+      "styleCategory": "Signature men's solitaire ring / Modern engagement band / Everyday luxury wear"
+    }
+  }
+  
+  ,
+  {
+    "id": 90,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "44,697.30",
+    "originalPrice": "63,853.29",
+    "discount": "30% OFF",
+    "imageFront": "images/rings/r29.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 91,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "6,236.33",
+    "originalPrice": "6,929.26",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r37.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 92,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "36,256.63",
+    "originalPrice": "51,795.18",
+    "discount": "30% OFF",
+    "imageFront": "images/earrings/e27.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 93,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "12,630.80",
+    "originalPrice": "16,841.06",
+    "discount": "25% OFF",
+    "imageFront": "images/earrings/e12.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 94,
+    "category": "rings",
+    "title": "Rings - Apex Cluster Dual Tone Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "12,832.56",
+    "originalPrice": "15,097.13",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r44.jpg",
+    "description": "Command attention with the Apex Cluster Dual Tone Ring by Maverick Jewels — a striking fusion of form, strength, and brilliance. This bold design features a wide band crafted in polished white gold, accentuated with elegant yellow gold inlays. At the crown, a powerful cluster of round-cut diamonds radiates confidence and luxury, making it a true showstopper for the modern man.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable, durable, hypoallergenic, and high-luster finish",
+      "edges": "Smooth interior band for comfort and all-day wearability",
+      "diamondSetting": {
+        "layout": "10 round brilliant-cut diamonds arranged in an elevated cluster",
+        "settingStyle": "Claw prong setting ensures maximum light return and durability",
+        "diamondWeight": "Approx. total diamond weight: ~0.90 – 1.10 carats (customizable)"
+      },
+      "designHighlights": [
+        "Three-row split shank design with yellow gold stripes",
+        "Raised central platform for a bold, dimensional look",
+        "Strong visual symmetry and architectural finesse"
+      ],
+      "finish": "High-polish white gold body with glossy yellow accents",
+      "styleCategory": "Statement ring / Luxury men's cocktail ring / High-end gift piece"
+    }
+  }
+  
+  ,
+  {
+    "id": 95,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "22,205.22",
+    "originalPrice": "27,756.53",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r9.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 96,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "44,288.98",
+    "originalPrice": "55,361.23",
+    "discount": "20% OFF",
+    "imageFront": "images/necklaces/n24.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 97,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "13,869.29",
+    "originalPrice": "16,316.81",
+    "discount": "15% OFF",
+    "imageFront": "images/earrings/e14.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 98,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "50,109.70",
+    "originalPrice": "62,637.12",
+    "discount": "20% OFF",
+    "imageFront": "images/earrings/e8.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 99,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "36,224.44",
+    "originalPrice": "48,299.26",
+    "discount": "25% OFF",
+    "imageFront": "images/earrings/e37.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 100,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "16,559.15",
+    "originalPrice": "18,399.06",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r1.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 101,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "33,710.39",
+    "originalPrice": "37,455.99",
+    "discount": "10% OFF",
+    "imageFront": "images/necklaces/n11.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 102,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "47,559.25",
+    "originalPrice": "63,412.34",
+    "discount": "25% OFF",
+    "imageFront": "images/necklaces/n15.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 103,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "15,061.42",
+    "originalPrice": "18,826.77",
+    "discount": "20% OFF",
+    "imageFront": "images/earrings/e18.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 104,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "44,672.06",
+    "originalPrice": "49,635.62",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r6.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 105,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "43,446.44",
+    "originalPrice": "51,113.46",
+    "discount": "15% OFF",
+    "imageFront": "images/necklaces/n30.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 106,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "4,432.12",
+    "originalPrice": "5,909.50",
+    "discount": "25% OFF",
+    "imageFront": "images/earrings/e5.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 107,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "53,249.84",
+    "originalPrice": "70,999.79",
+    "discount": "25% OFF",
+    "imageFront": "images/earrings/e40.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 108,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "26,320.46",
+    "originalPrice": "35,093.94",
+    "discount": "25% OFF",
+    "imageFront": "images/earrings/e7.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 109,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "55,009.51",
+    "originalPrice": "61,121.68",
+    "discount": "10% OFF",
+    "imageFront": "images/rings/r26.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 110,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "50,904.99",
+    "originalPrice": "59,888.22",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r25.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 111,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "46,612.59",
+    "originalPrice": "58,265.74",
+    "discount": "20% OFF",
+    "imageFront": "images/earrings/e6.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 112,
+    "category": "rings",
+    "title": "Rings - Dual Tone Majesty Solitaire Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "32,686.27",
+    "originalPrice": "43,581.69",
+    "discount": "25% OFF",
+    "imageFront": "images/rings/r39.jpg",
+    "description": "Blending bold contrast with elegant simplicity, the Dual Tone Majesty Solitaire Ring from Maverick Jewels brings contemporary edge to classic charm. Crafted in a striking combination of yellow and white gold, this lightweight yet impactful ring showcases a radiant square-set solitaire diamond, flanked by textured detailing for a refined, masculine finish.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable dual-tone design for a modern and distinguished aesthetic",
+      "edges": "Smooth, rounded inner band for comfortable wear",
+      "diamondSetting": {
+        "diamond": "1 square illusion-set diamond for enhanced brilliance",
+        "setting": "Four-prong secure setting",
+        "diamondWeight": "Approx. diamond weight: ~0.10 – 0.20 carat (customizable)"
+      },
+      "designElements": {
+        "texture": "Grooved side texture adds depth and dimension",
+        "band": "Slim, tapered band offers lightweight comfort and style",
+        "platform": "Square-shaped diamond platform emphasizes symmetry"
+      },
+      "finish": "Glossy high-polish finish on yellow gold with satin-finished white gold accents",
+      "styleCategory": "Everyday elegance / Engagement band / Modern men's ring"
+    }
+  }
+  ,
+  {
+    "id": 113,
+    "category": "bracelets",
+    "title": "Bracelets - Stylish Wrist Bracelet",
+    "brand": "MACERICK JEWELLERY",
+    "price": "46,963.38",
+    "originalPrice": "55,251.04",
+    "discount": "15% OFF",
+    "imageFront": "images/bracelets/b4.jpg",
+    "description": "Elegant bracelets piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 114,
+    "category": "bracelets",
+    "title": "Bracelets - Stylish Wrist Bracelet",
+    "brand": "MACERICK JEWELLERY",
+    "price": "16,250.98",
+    "originalPrice": "21,667.97",
+    "discount": "25% OFF",
+    "imageFront": "images/bracelets/b5.jpg",
+    "description": "Elegant bracelets piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 115,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "44,784.85",
+    "originalPrice": "63,978.36",
+    "discount": "30% OFF",
+    "imageFront": "images/necklaces/n7.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": false,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 116,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "59,615.69",
+    "originalPrice": "70,136.11",
+    "discount": "15% OFF",
+    "imageFront": "images/earrings/e44.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 117,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "60,192.85",
+    "originalPrice": "66,880.94",
+    "discount": "10% OFF",
+    "imageFront": "images/earrings/e41.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 118,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "42,336.98",
+    "originalPrice": "56,449.31",
+    "discount": "25% OFF",
+    "imageFront": "images/necklaces/n31.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 119,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "5,232.25",
+    "originalPrice": "7,474.64",
+    "discount": "30% OFF",
+    "imageFront": "images/necklaces/n13.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 120,
+    "category": "necklace",
+    "title": "Necklace - Luxurious Gold Necklace",
+    "brand": "MACERICK JEWELLERY",
+    "price": "65,470.65",
+    "originalPrice": "72,745.17",
+    "discount": "10% OFF",
+    "imageFront": "images/necklaces/n22.jpg",
+    "description": "Elegant necklace piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": false,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 121,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "10,340.62",
+    "originalPrice": "12,925.78",
+    "discount": "20% OFF",
+    "imageFront": "images/rings/r10.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 122,
+    "category": "bracelets",
+    "title": "Bracelets - Stylish Wrist Bracelet",
+    "brand": "MACERICK JEWELLERY",
+    "price": "44,766.83",
+    "originalPrice": "55,958.54",
+    "discount": "20% OFF",
+    "imageFront": "images/bracelets/b1.jpg",
+    "description": "Elegant bracelets piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 123,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "17,666.35",
+    "originalPrice": "25,237.64",
+    "discount": "30% OFF",
+    "imageFront": "images/earrings/e28.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 124,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "53,569.94",
+    "originalPrice": "59,522.16",
+    "discount": "10% OFF",
+    "imageFront": "images/earrings/e24.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 125,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "7,788.73",
+    "originalPrice": "9,163.21",
+    "discount": "15% OFF",
+    "imageFront": "images/rings/r12.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": false,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 126,
+    "category": "earrings",
+    "title": "Earrings - Graceful Drop Earrings",
+    "brand": "MACERICK JEWELLERY",
+    "price": "51,714.70",
+    "originalPrice": "68,952.93",
+    "discount": "25% OFF",
+    "imageFront": "images/earrings/e30.jpg",
+    "description": "Elegant earrings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 127,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "34,541.05",
+    "originalPrice": "49,344.36",
+    "discount": "30% OFF",
+    "imageFront": "images/rings/r23.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": false,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  },
+  {
+    "id": 128,
+    "category": "rings",
+    "title": "Rings - Exquisite Diamond Ring",
+    "brand": "MACERICK JEWELLERY",
+    "price": "47,723.80",
+    "originalPrice": "68,176.86",
+    "discount": "30% OFF",
+    "imageFront": "images/rings/r31.jpg",
+    "description": "Elegant rings piece designed with fine craftsmanship. Perfect for special occasions.",
+    "inStock": true,
+    "features": {
+      "material": "Customizable",
+      "edges": "Smooth, rounded edges for a comfortable fit",
+      "diamondLayout": "9 round-cut diamonds arranged in 3 vertical columns",
+      "setting": "Prong setting enhances brilliance and visibility",
+      "diamondWeight": "Approx. total diamond weight: ~0.60 – 0.75 carat (customizable)",
+      "designHighlights": [
+        "Triple-channel style diamond placement for a unique, structured look",
+        "Streamlined band with minimal grooves for a clean silhouette",
+        "Ideal for everyday luxury or milestone celebrations"
+      ],
+      "finish": "High-polish mirror finish on gold"
+    }
+  }
+]
